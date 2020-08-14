@@ -1,0 +1,37 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Sulfamethoxazole/trimethoprim <= 1.5\ngini = 0.007\nsamples = 567\nvalue = [565, 2]\nclass = not use", fillcolor="#e5813a"] ;
+1 [label="Imipenem <= 2.5\ngini = 0.022\nsamples = 179\nvalue = [177, 2]\nclass = not use", fillcolor="#e5823b"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Chloramphenicol <= 1.5\ngini = 0.165\nsamples = 11\nvalue = [10, 1]\nclass = not use", fillcolor="#e88e4d"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = use", fillcolor="#399de5"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 10\nvalue = [10, 0]\nclass = not use", fillcolor="#e58139"] ;
+2 -> 4 ;
+5 [label="Cephalexin <= 1.5\ngini = 0.012\nsamples = 168\nvalue = [167, 1]\nclass = not use", fillcolor="#e5823a"] ;
+1 -> 5 ;
+6 [label="Chloramphenicol <= 2.5\ngini = 0.064\nsamples = 30\nvalue = [29, 1]\nclass = not use", fillcolor="#e68540"] ;
+5 -> 6 ;
+7 [label="gini = 0.0\nsamples = 21\nvalue = [21, 0]\nclass = not use", fillcolor="#e58139"] ;
+6 -> 7 ;
+8 [label="Tobramycin <= 3.0\ngini = 0.198\nsamples = 9\nvalue = [8, 1]\nclass = not use", fillcolor="#e89152"] ;
+6 -> 8 ;
+9 [label="Piperacillin <= 2.5\ngini = 0.444\nsamples = 3\nvalue = [2, 1]\nclass = not use", fillcolor="#f2c09c"] ;
+8 -> 9 ;
+10 [label="Amikacin <= 2.0\ngini = 0.5\nsamples = 2\nvalue = [1, 1]\nclass = not use", fillcolor="#ffffff"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = not use", fillcolor="#e58139"] ;
+10 -> 11 ;
+12 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = use", fillcolor="#399de5"] ;
+10 -> 12 ;
+13 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = not use", fillcolor="#e58139"] ;
+9 -> 13 ;
+14 [label="gini = 0.0\nsamples = 6\nvalue = [6, 0]\nclass = not use", fillcolor="#e58139"] ;
+8 -> 14 ;
+15 [label="gini = 0.0\nsamples = 138\nvalue = [138, 0]\nclass = not use", fillcolor="#e58139"] ;
+5 -> 15 ;
+16 [label="gini = 0.0\nsamples = 388\nvalue = [388, 0]\nclass = not use", fillcolor="#e58139"] ;
+0 -> 16 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
