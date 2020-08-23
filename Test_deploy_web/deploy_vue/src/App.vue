@@ -4,8 +4,8 @@
     <h1>{{history_data.sex}}</h1>
     <history @update="history_data = $event;" :history_data="history_data" />
 
-    <lab_detail />
-    <lab_test :med_lists="med_lists" />
+    <lab_detail @update="detail_data = $event;" :detail_data="detail_data" />
+    <lab_test @update="med_lists = $event;" :med_lists="med_lists" :detail_data="detail_data" />
     <recommendation />
   </div>
 </template>
@@ -27,15 +27,18 @@ export default {
       patient: "",
 
       birth_date: "",
-      submitted_sample: "",
-      vitek_id_card: "",
+
       method_of_collection: "",
       vitek_ast_card: "",
       backterial_species_identification: "",
       history_data: {
-        species: "shi-zhu",
-        breed: "blitz",
-        sex: "male",
+        species: "",
+        breed: "",
+        sex: "",
+      },
+      detail_data: {
+        submitted_sample: "",
+        vitek_id_card: "",
       },
       med_lists: [
         {

@@ -49,7 +49,7 @@ export default {
     history_data: Object,
   },
   mounted() {
-    console.log(this.history_data);
+    // console.log(this.history_data);
   },
 };
 </script>

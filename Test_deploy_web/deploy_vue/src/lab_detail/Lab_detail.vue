@@ -7,7 +7,14 @@
       <div class="botton_lab_detail">
         <div class="left_lab_detail">
           <p>Submitted sample</p>
-          <p>Vitek ID card</p>
+          <p>
+            Vitek ID card
+            <select v-model="detail_data.vitek_id_card" id="vitek_id" @change="detail_data.vitek_id_card">
+              <option disabled value>Patient's vitek id</option>
+              <option value="GP">GP</option>
+              <option value="GN">GN</option>
+            </select>
+          </p>
         </div>
         <div class="right_lab_detail">
           <p>Method of collection</p>
@@ -19,7 +26,10 @@
 </template>
 <script>
 export default {
-  name: "lab_detail"
+  name: "lab_detail",
+  props: {
+    detail_data: Object,
+  },
 };
 </script>
 <style>
