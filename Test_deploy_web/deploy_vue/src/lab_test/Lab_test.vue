@@ -4,7 +4,7 @@
       <div class="top_lab_test">
         <p>3. ผลจากห้องปฏิบัติการ (Vitek®):</p>
         <div class="test_detail">
-          <p>Bacterial Species identification</p>
+          <p>Bacterial Species identification {{detail_data.vitek_id_card}}</p>
         </div>
         <div class="botton_lab_test">
           <div class="lab_table">
@@ -24,24 +24,25 @@
 import lab_table from "../lab_table/Lab_table";
 export default {
   name: "lab_test",
-  data: function() {
+  data: function () {
     return {
       half: 0,
       left_table: [],
-      right_table: []
+      right_table: [],
     };
   },
   components: {
-    lab_table
+    lab_table,
   },
   props: {
-    med_lists: Array
+    med_lists: Array,
+    detail_data: Object,
   },
   mounted() {
     this.half = Math.ceil(this.med_lists.length / 2);
     this.left_table = this.med_lists.slice(0, this.half);
     this.right_table = this.med_lists.slice(-this.half);
-  }
+  },
 };
 </script>
 <style>
