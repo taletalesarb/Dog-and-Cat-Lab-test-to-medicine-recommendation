@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <header_hospital />
-    <history />
+    <h1>{{history_data.sex}}</h1>
+    <history @update="history_data = $event;" :history_data="history_data" />
+
     <lab_detail />
     <lab_test :med_lists="med_lists" />
     <recommendation />
@@ -20,99 +22,103 @@ export default {
     return {
       date_of_sample_collection: "",
       owner: "",
-      species: "",
-      sex: "",
+
       date_of_submission: "",
       patient: "",
-      breed: "",
+
       birth_date: "",
       submitted_sample: "",
       vitek_id_card: "",
       method_of_collection: "",
       vitek_ast_card: "",
       backterial_species_identification: "",
+      history_data: {
+        species: "shi-zhu",
+        breed: "blitz",
+        sex: "male",
+      },
       med_lists: [
         {
           med_name: "ESBL",
-          SIR: "-"
+          SIR: "-",
         },
         {
           med_name: "Ampicillin",
-          SIR: "R"
+          SIR: "R",
         },
         {
           med_name: "Amoxicillin/clavulanic acid ",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Piperacillin",
-          SIR: "I"
+          SIR: "I",
         },
         {
           med_name: "Cephalexin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Cefpodoxime",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Cefovecin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Ceftiofur",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Imipenem",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Amikacin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Gentamicin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Tobramycin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Enrofloxacin",
-          SIR: "R"
+          SIR: "R",
         },
         {
           med_name: "Marbofloxacin",
-          SIR: "R"
+          SIR: "R",
         },
         {
           med_name: "Tetracycline",
-          SIR: "R"
+          SIR: "R",
         },
         {
           med_name: "Nitrofurantoin",
-          SIR: "S"
+          SIR: "S",
         },
         {
           med_name: "Chloramphenicol",
-          SIR: "R"
+          SIR: "R",
         },
         {
           med_name: "Polymyxin B",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Rifampin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Sulfamethoxazole/trimethoprim",
-          SIR: "R"
-        }
-      ]
+          SIR: "R",
+        },
+      ],
     };
   },
   components: {
@@ -120,8 +126,8 @@ export default {
     history,
     lab_detail,
     lab_test,
-    recommendation
-  }
+    recommendation,
+  },
 };
 </script>
 

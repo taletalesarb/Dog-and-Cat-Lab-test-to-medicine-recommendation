@@ -12,7 +12,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="value in med_lists" :key="value">
+        <tr v-for="(value,index) in med_lists" :key="'SIR'+index">
           <td class="tg-med">{{value.med_name}}</td>
           <td class="tg-MIC">>=320</td>
           <td class="tg-SIR">{{value.SIR}}</td>
@@ -32,8 +32,8 @@ export default {
     med_lists: Array
   },
   mounted() {
-    console.log("-->>med_lists");
-    console.log(med_lists);
+    // console.log("-->>med_lists");
+    // console.log(med_lists);
   }
 };
 </script>
