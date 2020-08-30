@@ -8,14 +8,6 @@
         <div class="left_lab_detail">
           <p>
             Submitted sample
-            <select v-model="detail_data.vitek_id_card" id="vitek_id">
-              <option disabled value>Patient's vitek id</option>
-              <option value="GP">GP</option>
-              <option value="GN">GN</option>
-            </select>
-          </p>
-          <p>
-            Vitek ID card
             <select v-model="detail_data.submitted_sample" id="submitted_sample">
               <option disabled value>submitted sample</option>
               <option value="Urine">Urine</option>
@@ -30,6 +22,14 @@
               <option value="Ear exudate">Ear exudate</option>
               <option value="Unknown">Unknown</option>
               <option value="Other">Other</option>
+            </select>
+          </p>
+          <p>
+            Vitek ID card
+            <select v-model="detail_data.vitek_id_card" id="vitek_id">
+              <option disabled value>Patient's vitek id</option>
+              <option value="GP">GP</option>
+              <option value="GN">GN</option>
             </select>
           </p>
         </div>
