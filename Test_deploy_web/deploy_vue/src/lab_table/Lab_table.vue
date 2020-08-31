@@ -14,7 +14,7 @@
       <tbody>
         <tr v-for="(value,index) in med_list" :key="'SIR_value'+index">
           <td class="tg-med" v-if="(index+1) % 2 == pos-1">{{value.med_name}}</td>
-          <td class="tg-MIC" v-if="(index+1) % 2 == pos-1">>=320</td>
+          <td class="tg-MIC" v-if="(index+1) % 2 == pos-1"></td>
           <td class="tg-SIR" v-if="(index+1) % 2 == pos-1">
             <select id="SIR_value" v-model="value.SIR">
               <option value="N/A" selected="selected">N/A</option>
