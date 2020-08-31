@@ -1,11 +1,17 @@
 <template>
   <div id="app">
-    <header_hospital />
-    <h1>{{history_data.sex}}</h1>
-    <history @update="history_data = $event;" :history_data="history_data" />
+    <div @click="showMedList">
+      <header_hospital />
+    </div>
 
-    <lab_detail @update="detail_data = $event;" :detail_data="detail_data" />
-    <lab_test @update="med_lists = $event;" :med_lists="med_lists" :detail_data="detail_data" />
+    <!-- <h1 v-if="detail_data.vitek_id_card == 'GP'">{{detail_data.vitek_id_card}}</h1> -->
+    <history @update="history_data = $event;" :history_data="history_data" />
+    <div @click="changeVitek">
+      <lab_detail @update="detail_data = $event;" :detail_data="detail_data" />
+    </div>
+
+    <!-- Select med_list to send -->
+    <lab_test id="labTest" @update="med_list = $event;" v-if="med_list" v-bind:med_list="med_list" />
     <recommendation />
   </div>
 </template>
@@ -27,7 +33,7 @@ export default {
       patient: "",
 
       birth_date: "",
-
+      med_list: [],
       method_of_collection: "",
       vitek_ast_card: "",
       backterial_species_identification: "",
@@ -38,88 +44,42 @@ export default {
       },
       detail_data: {
         submitted_sample: "",
-        vitek_id_card: "",
+        vitek_id_card: "GN",
       },
-      med_lists: [
+      med_lists_GN: [
         {
-          med_name: "ESBL",
-          SIR: "-",
-        },
-        {
-          med_name: "Ampicillin",
-          SIR: "R",
-        },
-        {
-          med_name: "Amoxicillin/clavulanic acid ",
-          SIR: "S",
-        },
-        {
-          med_name: "Piperacillin",
-          SIR: "I",
-        },
-        {
-          med_name: "Cephalexin",
-          SIR: "S",
-        },
-        {
-          med_name: "Cefpodoxime",
-          SIR: "S",
-        },
-        {
-          med_name: "Cefovecin",
-          SIR: "S",
-        },
-        {
-          med_name: "Ceftiofur",
-          SIR: "S",
-        },
-        {
-          med_name: "Imipenem",
-          SIR: "S",
-        },
-        {
-          med_name: "Amikacin",
-          SIR: "S",
-        },
-        {
-          med_name: "Gentamicin",
-          SIR: "S",
-        },
-        {
-          med_name: "Tobramycin",
-          SIR: "S",
-        },
-        {
-          med_name: "Enrofloxacin",
-          SIR: "R",
-        },
-        {
-          med_name: "Marbofloxacin",
-          SIR: "R",
-        },
-        {
-          med_name: "Tetracycline",
-          SIR: "R",
-        },
-        {
-          med_name: "Nitrofurantoin",
-          SIR: "S",
-        },
-        {
-          med_name: "Chloramphenicol",
-          SIR: "R",
-        },
-        {
-          med_name: "Polymyxin B",
+          med_name: "GN_med1",
           SIR: "N/A",
         },
         {
-          med_name: "Rifampin",
+          med_name: "GN_med2",
           SIR: "N/A",
         },
         {
-          med_name: "Sulfamethoxazole/trimethoprim",
-          SIR: "R",
+          med_name: "GN_med3",
+          SIR: "N/A",
+        },
+        {
+          med_name: "GN_med4",
+          SIR: "N/A",
+        },
+      ],
+      med_lists_GP: [
+        {
+          med_name: "GP_med1",
+          SIR: "N/A",
+        },
+        {
+          med_name: "GP_med2",
+          SIR: "N/A",
+        },
+        {
+          med_name: "GP_med3",
+          SIR: "N/A",
+        },
+        {
+          med_name: "GP_med4",
+          SIR: "N/A",
         },
       ],
     };
@@ -130,6 +90,28 @@ export default {
     lab_detail,
     lab_test,
     recommendation,
+  },
+  mounted() {
+    this.med_list = this.med_lists_GN;
+  },
+  methods: {
+    changeVitek() {
+      if (this.detail_data.vitek_id_card == "GN") {
+        console.log("-> GN <-");
+        this.med_list = this.med_lists_GN;
+        // document.getElementById("labTest").med_list = "med_lists_GN";
+        console.log(this.med_list);
+      } else if (this.detail_data.vitek_id_card == "GP") {
+        console.log("-> GP <-");
+        this.med_list = this.med_lists_GP;
+        console.log(this.med_list);
+        // document.getElementById("labTest").med_list = "med_lists_GP";
+      }
+    },
+    showMedList() {
+      console.log("showMedList in App");
+      console.log(this.med_list);
+    },
   },
 };
 </script>

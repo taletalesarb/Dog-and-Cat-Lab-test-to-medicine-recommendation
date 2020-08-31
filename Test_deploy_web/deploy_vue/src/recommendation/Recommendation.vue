@@ -25,14 +25,14 @@
 
 <script>
 export default {
-  name: "recommendation"
+  name: "recommendation",
 };
 </script>
 
 <style>
 .recommendation {
   color: grey;
-  margin-top: -520px;
+  /* margin-top: -420px; */
 }
 .rec-detail {
   margin-left: 20px;

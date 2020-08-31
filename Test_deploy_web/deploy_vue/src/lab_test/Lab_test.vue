@@ -3,16 +3,16 @@
     <div class="lab_test">
       <div class="top_lab_test">
         <p>3. ผลจากห้องปฏิบัติการ (Vitek®):</p>
-        <div class="test_detail">
-          <p>Bacterial Species identification {{detail_data.vitek_id_card}}</p>
+        <div class="test_detail" @click="showMedList">
+          <p>Bacterial Species identification</p>
         </div>
         <div class="botton_lab_test">
           <div class="lab_table">
             <div class="table_left">
-              <lab_table v-if="med_lists" v-bind:med_lists="left_table" />
+              <lab_table id="leftTable" v-if="med_list" v-bind:med_list="med_list" :pos="2" />
             </div>
             <div class="table_right">
-              <lab_table v-if="med_lists" v-bind:med_lists="right_table" />
+              <lab_table id="rightTable" v-if="med_list" v-bind:med_list="med_list" :pos="1" />
             </div>
           </div>
         </div>
@@ -29,19 +29,20 @@ export default {
       half: 0,
       left_table: [],
       right_table: [],
+      // med_list: [],
     };
   },
   components: {
     lab_table,
   },
   props: {
-    med_lists: Array,
-    detail_data: Object,
+    med_list: Array,
   },
-  mounted() {
-    this.half = Math.ceil(this.med_lists.length / 2);
-    this.left_table = this.med_lists.slice(0, this.half);
-    this.right_table = this.med_lists.slice(-this.half);
+  methods: {
+    showMedList() {
+      console.log("showMedList in test");
+      console.log(this.med_list);
+    },
   },
 };
 </script>
@@ -63,6 +64,7 @@ export default {
   grid-area: 2 / 1 / 3 / 2;
   margin-top: 0px;
   margin-left: 20px;
+  max-height: 500px;
 }
 .test_detail {
   margin-left: 20px;
@@ -80,6 +82,6 @@ export default {
 }
 .table_right {
   grid-area: 1 / 2 / 2 / 3;
-  margin-left: -130px;
+  margin-right: 130px;
 }
 </style>

@@ -10,32 +10,14 @@
           <p>Owner</p>
           <p>
             Species
-            <input
-              v-model="history_data.species"
-              placeholder="Enter patient's specie"
-              @change="history_data.species"
-            />
+            <input v-model="history_data.species" placeholder="Enter patient's specie" />
           </p>
-          <p>
-            Sex
-            <select v-model="history_data.sex" id="sex_patient" @change="history_data.sex">
-              <option disabled value>Patient's sex</option>
-              <option value="male">male</option>
-              <option value="female">female</option>
-            </select>
-          </p>
+          <p>Sex</p>
         </div>
         <div class="right_history">
           <p>Date of submission {{history_data.species}}</p>
           <p>Patient</p>
-          <p>
-            Breed
-            <input
-              v-model="history_data.breed"
-              placeholder="Enter patient's breed"
-              @change="history_data.breed"
-            />
-          </p>
+          <p>Breed</p>
           <p>Birth date</p>
         </div>
       </div>

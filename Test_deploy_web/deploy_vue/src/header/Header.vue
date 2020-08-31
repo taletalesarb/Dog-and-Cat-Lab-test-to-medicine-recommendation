@@ -2,7 +2,8 @@
   <div>
     <div class="header">
       <div class="logo_hospital">
-        <img src="../assets/logo_hospital.png" alt="logo" />
+        <!-- <img src="../assets/logo_hospital.png" alt="logo" /> -->
+        <img src="../assets/logo.png" alt="logo" />
       </div>
       <div class="header_detail">
         <div class="doctor_detail">

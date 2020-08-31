@@ -3,8 +3,8 @@
     <table class="tg">
       <thead>
         <tr>
-          <th class="tg-title" rowspan="2">Antimicrobials</th>
-          <th class="tg-title" colspan="2">Results</th>
+          <th class="tg-title" rowspan="2">Antimicrobials pos{{pos}}</th>
+          <th class="tg-title" colspan="2" @click="showMedList">Results</th>
         </tr>
         <tr>
           <td class="tg-title">MIC</td>
@@ -12,10 +12,17 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(value,index) in med_lists" :key="'SIR'+index">
-          <td class="tg-med">{{value.med_name}}</td>
-          <td class="tg-MIC">>=320</td>
-          <td class="tg-SIR">{{value.SIR}}</td>
+        <tr v-for="(value,index) in med_list" :key="'SIR_value'+index">
+          <td class="tg-med" v-if="(index+1) % 2 == pos-1">{{value.med_name}}</td>
+          <td class="tg-MIC" v-if="(index+1) % 2 == pos-1">>=320</td>
+          <td class="tg-SIR" v-if="(index+1) % 2 == pos-1">
+            <select id="SIR_value" v-model="value.SIR">
+              <option value="N/A" selected="selected">N/A</option>
+              <option value="S">S</option>
+              <option value="I">I</option>
+              <option value="R">R</option>
+            </select>
+          </td>
         </tr>
       </tbody>
     </table>
@@ -29,12 +36,20 @@ export default {
     return {};
   },
   props: {
-    med_lists: Array
+    med_list: Array,
+    pos: Number,
   },
   mounted() {
-    // console.log("-->>med_lists");
-    // console.log(med_lists);
-  }
+    console.log("Lab table -->>med_lists ");
+    // console.log(this.med_list);
+    console.log(this.pos);
+  },
+  methods: {
+    showMedList() {
+      console.log("showMedList in table");
+      console.log(this.med_list);
+    },
+  },
 };
 </script>
 

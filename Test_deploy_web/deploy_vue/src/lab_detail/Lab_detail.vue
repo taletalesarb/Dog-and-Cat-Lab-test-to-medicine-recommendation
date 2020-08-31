@@ -6,13 +6,30 @@
       </div>
       <div class="botton_lab_detail">
         <div class="left_lab_detail">
-          <p>Submitted sample</p>
           <p>
-            Vitek ID card
-            <select v-model="detail_data.vitek_id_card" id="vitek_id" @change="detail_data.vitek_id_card">
+            Submitted sample
+            <select v-model="detail_data.vitek_id_card" id="vitek_id">
               <option disabled value>Patient's vitek id</option>
               <option value="GP">GP</option>
               <option value="GN">GN</option>
+            </select>
+          </p>
+          <p>
+            Vitek ID card
+            <select v-model="detail_data.submitted_sample" id="submitted_sample">
+              <option disabled value>submitted sample</option>
+              <option value="Urine">Urine</option>
+              <option value="Ub mucosa">Ub mucosa</option>
+              <option value="Wound">Wound</option>
+              <option value="Abscess">Abscess</option>
+              <option value="Pustule">Pustule</option>
+              <option value="Pleural effusion">Pleural effusion</option>
+              <option value="Bite wound">Bite wound</option>
+              <option value="Surgical site">Surgical site</option>
+              <option value="Abdominal effusion">Abdominal effusion</option>
+              <option value="Ear exudate">Ear exudate</option>
+              <option value="Unknown">Unknown</option>
+              <option value="Other">Other</option>
             </select>
           </p>
         </div>
