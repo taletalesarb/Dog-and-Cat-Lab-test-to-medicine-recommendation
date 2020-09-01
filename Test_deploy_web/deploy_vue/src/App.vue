@@ -11,12 +11,7 @@
     </div>
 
     <!-- Select med_list to send -->
-    <lab_test
-      id="labTest"
-      @update="med_list = $event"
-      v-if="med_list"
-      v-bind:med_list="med_list"
-    />
+    <lab_test id="labTest" @update="med_list = $event" v-if="med_list" v-bind:med_list="med_list" />
     <recommendation />
   </div>
 </template>
@@ -31,7 +26,7 @@ export default {
   name: "app",
   data() {
     return {
-      date_of_sample_collection: " ",
+      date_of_sample_collection: "",
       owner: "",
 
       date_of_submission: "",
@@ -45,152 +40,152 @@ export default {
       history_data: {
         species: "",
         breed: "",
-        sex: ""
+        sex: "",
       },
       detail_data: {
         submitted_sample: "",
-        vitek_id_card: "GN"
+        vitek_id_card: "GN",
       },
       med_lists_GN: [
         {
           med_name: "Amikacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Amoxicillin/clavulanic acid",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cefixime",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cefovecin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Ceftriaxone",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cephalexin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Colistin (polymyxin E)",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Doxycycline",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Enrofloxacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Fosfomycin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Gentamicin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Imipenem",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Marbofloxacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Nitrofurantoin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Piperacillin-tazobactam",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Sulfamethoxazole",
-          SIR: "N/A"
-        }
+          SIR: "N/A",
+        },
       ],
       med_lists_GP: [
         {
           med_name: "Amikacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Amoxicillin/clavulanic acid",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Azithromycin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cefazolin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cefixime",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cefovecin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Ceftriaxone",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Cephalexin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Clindamycin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Doxycycline",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Enrofloxacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Gentamicin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Marbofloxacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Nitrofurantoin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Pradofloxacin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Rifampicin",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Sulfamethoxazole",
-          SIR: "N/A"
+          SIR: "N/A",
         },
         {
           med_name: "Vancomycin",
-          SIR: "N/A"
-        }
-      ]
+          SIR: "N/A",
+        },
+      ],
     };
   },
   components: {
@@ -198,7 +193,7 @@ export default {
     history,
     lab_detail,
     lab_test,
-    recommendation
+    recommendation,
   },
   mounted() {
     this.med_list = this.med_lists_GN;
@@ -220,8 +215,8 @@ export default {
     showMedList() {
       console.log("showMedList in App");
       console.log(this.med_list);
-    }
-  }
+    },
+  },
 };
 </script>
 
