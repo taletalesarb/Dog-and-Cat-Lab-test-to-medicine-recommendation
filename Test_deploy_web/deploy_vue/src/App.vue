@@ -48,37 +48,141 @@ export default {
       },
       med_lists_GN: [
         {
-          med_name: "GN_med1",
+          med_name: "Amikacin",
           SIR: "N/A",
         },
         {
-          med_name: "GN_med2",
+          med_name: "Amoxicillin/clavulanic acid",
           SIR: "N/A",
         },
         {
-          med_name: "GN_med3",
+          med_name: "Cefixime",
           SIR: "N/A",
         },
         {
-          med_name: "GN_med4",
+          med_name: "Cefovecin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Ceftriaxone",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Cephalexin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Colistin (polymyxin E)",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Doxycycline",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Enrofloxacin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Fosfomycin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Gentamicin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Imipenem",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Marbofloxacin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Nitrofurantoin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Piperacillin-tazobactam",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Sulfamethoxazole",
           SIR: "N/A",
         },
       ],
       med_lists_GP: [
         {
-          med_name: "GP_med1",
+          med_name: "Amikacin",
           SIR: "N/A",
         },
         {
-          med_name: "GP_med2",
+          med_name: "Amoxicillin/clavulanic acid",
           SIR: "N/A",
         },
         {
-          med_name: "GP_med3",
+          med_name: "Azithromycin",
           SIR: "N/A",
         },
         {
-          med_name: "GP_med4",
+          med_name: "Cefazolin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Cefixime",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Cefovecin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Ceftriaxone",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Cephalexin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Clindamycin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Doxycycline",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Enrofloxacin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Gentamicin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Marbofloxacin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Nitrofurantoin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Pradofloxacin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Rifampicin",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Sulfamethoxazole",
+          SIR: "N/A",
+        },
+        {
+          med_name: "Vancomycin",
           SIR: "N/A",
         },
       ],
