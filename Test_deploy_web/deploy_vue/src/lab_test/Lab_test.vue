@@ -4,15 +4,31 @@
       <div class="top_lab_test">
         <p>3. ผลจากห้องปฏิบัติการ (Vitek®):</p>
         <div class="test_detail" @click="showMedList">
-          <p>Bacterial Species identification</p>
+          <p>
+            Bacterial Species identification
+            <!-- <input
+              v-model="backterial_species_identification"
+              placeholder="Enter backterial species identification"
+            /> -->
+          </p>
         </div>
         <div class="botton_lab_test">
           <div class="lab_table">
             <div class="table_left">
-              <lab_table id="leftTable" v-if="med_list" v-bind:med_list="med_list" :pos="2" />
+              <lab_table
+                id="leftTable"
+                v-if="med_list"
+                v-bind:med_list="med_list"
+                :pos="2"
+              />
             </div>
             <div class="table_right">
-              <lab_table id="rightTable" v-if="med_list" v-bind:med_list="med_list" :pos="1" />
+              <lab_table
+                id="rightTable"
+                v-if="med_list"
+                v-bind:med_list="med_list"
+                :pos="1"
+              />
             </div>
           </div>
         </div>
@@ -24,26 +40,27 @@
 import lab_table from "../lab_table/Lab_table";
 export default {
   name: "lab_test",
-  data: function () {
+  data: function() {
     return {
       half: 0,
       left_table: [],
-      right_table: [],
+      right_table: []
       // med_list: [],
     };
   },
   components: {
-    lab_table,
+    lab_table
   },
   props: {
     med_list: Array,
+    backterial_species_identification: String
   },
   methods: {
     showMedList() {
       console.log("showMedList in test");
       console.log(this.med_list);
-    },
-  },
+    }
+  }
 };
 </script>
 <style>
@@ -54,7 +71,7 @@ export default {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   color: grey;
-  max-height: 500px;
+  max-height: 650px;
 }
 
 .top_lab_test {
