@@ -62,7 +62,6 @@ export default {
   grid-row-gap: 0px;
   color: grey;
   max-height: 670px;
-  
 }
 
 .top_lab_test {
