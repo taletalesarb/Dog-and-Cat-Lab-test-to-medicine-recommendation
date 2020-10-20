@@ -4,7 +4,6 @@
       <header_hospital />
     </div>
 
-    <!-- <h1 v-if="detail_data.vitek_id_card == 'GP'">{{detail_data.vitek_id_card}}</h1> -->
     <history @update="history_data = $event" :history_data="history_data" />
     <div @click="changeVitek">
       <lab_detail @update="detail_data = $event" :detail_data="detail_data" />
