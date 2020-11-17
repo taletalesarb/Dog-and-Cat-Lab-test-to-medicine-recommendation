@@ -134,7 +134,11 @@ export default {
       ],
       med_lists_GP: [
         {
-          med_name: "Cefoxitin",
+          med_name: "Amoxicillin/clavulanic acid",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Ampicillin",
           SIR: "N/A"
         },
         {
@@ -142,19 +146,7 @@ export default {
           SIR: "N/A"
         },
         {
-          med_name: "Amoxicillin/clavulanic acid",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Oxacillin",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Cephalothin",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Cefpodoxime",
+          med_name: "Cefotaxime",
           SIR: "N/A"
         },
         {
@@ -162,23 +154,23 @@ export default {
           SIR: "N/A"
         },
         {
-          med_name: "Gentamicin",
+          med_name: "Cefoxitin",
           SIR: "N/A"
         },
         {
-          med_name: "Enrofloxacin",
+          med_name: "Cefpodoxime",
           SIR: "N/A"
         },
         {
-          med_name: "Marbofloxacin",
+          med_name: "Ceftriaxone",
           SIR: "N/A"
         },
         {
-          med_name: "Inducible clindamycin",
+          med_name: "Cephalothin",
           SIR: "N/A"
         },
         {
-          med_name: "Erythromycin",
+          med_name: "Chloramphenicol",
           SIR: "N/A"
         },
         {
@@ -186,15 +178,11 @@ export default {
           SIR: "N/A"
         },
         {
-          med_name: "Vancomycin",
+          med_name: "Enrofloxacin",
           SIR: "N/A"
         },
         {
-          med_name: "Tetracycline",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Nitrofurantoin",
+          med_name: "Erythromycin",
           SIR: "N/A"
         },
         {
@@ -202,11 +190,35 @@ export default {
           SIR: "N/A"
         },
         {
+          med_name: "Gentamicin",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Inducible clindamycin",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Levofloxacin",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Linezolid",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Marbofloxacin",
+          SIR: "N/A"
+        },
+        {
           med_name: "Mupirocin",
           SIR: "N/A"
         },
         {
-          med_name: "Chloramphenicol",
+          med_name: "Nitrofurantoin",
+          SIR: "N/A"
+        },
+        {
+          med_name: "Oxacillin",
           SIR: "N/A"
         },
         {
@@ -218,23 +230,11 @@ export default {
           SIR: "N/A"
         },
         {
-          med_name: "Ampicillin",
+          med_name: "Tetracycline",
           SIR: "N/A"
         },
         {
-          med_name: "Cefotaxime",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Ceftriaxone",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Levofloxacin",
-          SIR: "N/A"
-        },
-        {
-          med_name: "Linezolid",
+          med_name: "Vancomycin",
           SIR: "N/A"
         }
       ]
@@ -275,16 +275,15 @@ export default {
     request_med() {
       console.log("===> req_data <===");
       let req_data = {};
-      req_data.id = "0";
       req_data.species = this.history_data.species;
-      req_data.submitted_sample = this.detail_data.submitted_sample;
+      //req_data.submitted_sample = this.detail_data.submitted_sample;
       req_data.bact_species_1 = this.backterial_species_identification;
       if (this.detail_data.vitek_id_card == "GN") {
         var med_table = this.med_lists_GN;
-        var req_url = "http://127.0.0.1:5000/GN";
+        var req_url = 'http://pinprayoon.ddns.net:5000/GN';
       } else if (this.detail_data.vitek_id_card == "GP") {
         var med_table = this.med_lists_GP;
-        var req_url = "http://127.0.0.1:5000/GP";
+        var req_url = 'http://pinprayoon.ddns.net:5000/GP';
       } else {
         return;
       }
