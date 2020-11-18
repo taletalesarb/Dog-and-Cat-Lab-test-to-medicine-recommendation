@@ -25,7 +25,8 @@
       v-if="med_list"
       v-bind:med_list="med_list"
     />
-    <button @click="request_med">get recommend</button>
+    <div id ="getRecButton"><button  @click="request_med">get recommend</button></div>
+    
     <recommendation
       @click="printBact"
       @update="med_recommend = $event"
@@ -319,5 +320,8 @@ export default {
 }
 #p {
   color: grey;
+}
+#getRecButton {
+  /* margin: 50px; */
 }
 </style>
