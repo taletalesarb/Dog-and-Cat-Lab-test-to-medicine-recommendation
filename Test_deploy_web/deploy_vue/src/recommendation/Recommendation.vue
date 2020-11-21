@@ -12,7 +12,7 @@
           <div class="get-med">
             <!-- get med recommendation from api -->
             <p v-for="(med, index) in med_recommend" :key="'med' + index">
-              {{ med }}
+              -{{ med }}
             </p>
           </div>
           <!-- <p>
@@ -20,8 +20,6 @@
           </p> -->
         </div>
         <p>
-          แนะนำให้ flush ล้างกระเพาะปัสสาวะด้วย NSS จนปัสสาวะใส
-          เพื่อช่วยกำจัด/ลดจำนวนเชื้อในกระเพาะปัสสาวะ
         </p>
       </div>
     </div>
