@@ -5,7 +5,7 @@ module.exports = {
             enabled: true,
             context: '/api',
             options: {
-                target: 'http://127.0.0.1:5000',
+                target: 'http://pinprayoon.ddns.net:5000',
                 changeOrigin: true
             }
         }
