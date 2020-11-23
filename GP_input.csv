@@ -1,0 +1,2245 @@
+id,species,vitek_id,bact_species_1,Amikacin,Ampicillin,Amoxicillin/clavulanic acid,Cefixime,Cefovecin,Cefpodoxime,Ceftiofur,Ceftriaxone,Cephalexin,Chloramphenicol,Colistin (polymyxin E),Doxycycline,ESBL,Enrofloxacin,Fosfomycin,Gentamicin,Imipenem,Marbofloxacin,Nitrofurantoin,Piperacillin-tazobactam,Polymyxin B,Rifampin,Sulfamethoxazole/trimethoprim,Tetracycline,Tobramycin,hn,Benzyl penicillin,Cefotaxime,Cefoxitin,Cephalothin,Clindamycin,Erythromycin,Fusidic acid,Inducible clindamycin,Levofloxacin,Linezolid,Mupirocin,Oxacillin,Rifampicin,Vancomycin
+0,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5400033,R,,,S,R,S,S,-,,,,S,S,S
+1,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5500255,R,,-,S,S,S,S,-,,,,S,S,S
+2,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,5500764,R,,-,S,,,,-,,,,R,,
+3,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,5500894,R,,-,S,,,,-,,,,R,,
+4,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5501087,R,,-,S,,,,-,,,,S,,
+5,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,R,,S,,,,,,,,5501087,R,,-,S,,,,-,,,,S,,
+6,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5501488,R,,-,S,S,R,S,+,,,S,S,S,S
+7,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5501854,*R,,-,S,S,S,S,-,,,,S,S,S
+8,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5502038,*R,,-,S,R,R,S,-,,,,S,S,S
+9,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5502262,R,,-,S,S,S,S,,,,,S,S,S
+10,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,5502333,R,,-,S,S,S,S,-,,,,R,S,S
+11,Dog,GP,Antimicrobials,,,S,,R,S,,,,,,,,R,,I,,R,,,,,,,,5503390,R,,-,S,,,,-,,,,R,,
+12,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5506054,S,,-,S,,,,-,,,,S,,
+13,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,S,,5506112,R,,-,S,S,S,S,-,,,,S,S,S
+14,Unk,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,5507086,R,,-,S,R,R,S,-,,,,R,S,S
+15,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5508183,R,,-,S,S,R,S,-,,,,S,S,S
+16,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5511418,R,,-,S,,,,-,,,,S,,
+17,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5513817,R,,-,S,,,,+,,,,S,,
+18,Unk,GP,Enterococcus faecium,,,S,,S,,,,,S,,,,R,,,,R,S,,,,S,S,,5514788,S,,,,,S,,,,,,,,S
+19,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,5515145,*R,,-,S,R,R,S,-,,,,S,S,S
+20,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5602189,R,,-,S,S,S,S,-,,,,S,S,S
+21,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5605920,R,,-,S,S,S,S,-,,,,S,S,S
+22,Dog,GP,Antimicrobials,,,S,,R,R,,,,,,,,R,,R,,R,,,,,,,,5606575,R,,-,S,,,,+,,,,R,,
+23,Cat,GP,Antimicrobials,,,S,,S,,,,,,,,,S,,,,S,,,,,,,,5606752,S,,,S,,,,,,,,,,
+24,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,S,R,,5607332,,,-,S,S,R,S,-,,,,S,S,S
+25,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5607590,R,,-,S,S,S,S,-,,,,R,S,S
+26,Cat,GP,Enterococcus faecalis 2.1 x 105 CFU/ml,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,5610460,S,,,,R,I,,,,,,,,S
+27,Dog,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,5612943,,,-,,,,,,,,,,,
+28,Dog,GP,unidentified gram-positive bacteria,,,,,,,,,,,,,,,,,,,,,,,,,,5613795,,,-,,,,,,,,,,,
+29,Dog,GP,Staphylococcus chromogenes,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5616694,R,,-,S,S,R,S,-,,,,R,S,S
+30,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5700245,R,,-,S,S,S,S,-,,,S,S,S,S
+31,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5701470,*R,,-,S,R,R,I,-,,,,S,S,S
+32,Dog,GP,Staphylococcus auricularis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5701951,S,,-,S,S,S,S,-,,,,S,S,S
+33,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5701951,*R,,-,S,R,R,S,-,,,S,S,S,S
+34,Dog,GP,Streptococcus sp. (2.8 x 105 CFU/ml),,,,,Gentamicin,,,,,,,,,,,,,Inducible clindamycin,,,,,"GN(S), SXT(S), AK(I), ENR(I), DO(S), AMC(S), EFT(S)",Nitrofurantoin,,5702581,,,Benzyl penicillin,,,Clindamycin,,,,,Chloramphenicol,Cefalotin,,
+35,Dog,GP,Antimicrobials,,,S,,R,I,,,,,,,,R,,I,,R,,,,,,,,5708509,R,,-,S,,,,-,,,,R,,
+36,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5708644,S,,-,S,S,S,S,-,,,,S,S,S
+37,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,5708728,R,,-,S,S,R,S,-,,,,R,S,S
+38,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5709648,R,,,S,,,,-,,,,S,,
+39,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5712303,R,,-,S,S,R,S,-,,,,R,S,S
+40,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5713728,S,,-,S,S,S,S,-,,,,S,S,S
+41,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,5713845,R,,-,S,,,,-,,,,R,,
+42,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5715811,R,,-,S,S,R,S,,,,,S,S,S
+43,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5801521,R,,-,S,S,S,S,-,,,,S,S,S
+44,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5801955,R,,-,S,S,S,S,-,,,,S,S,S
+45,Dog,GP,Alloiococcus otitis,,,,,,,,,,,,,,,,,,,,,,,,,,5802126,,,,,,,,,,,,,,
+46,Cat,GP,Enterococcus faecium,,,R,,R,,,,,R,,,,R,,,,R,R,,,,R,R,,5802620,R,,,,R,R,,,,,,,,R
+47,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,I,,R,,,,,,,,5803822,R,,,S,,,,-,,,,R,,
+48,Cat,GP,Staphylococcus cohnii ssp. urealyticus,,,*R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,5804050,*R,,+,*R,R,I,S,-,,,,R,S,S
+49,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5804489,,,-,S,S,S,S,-,,,,R,S,S
+50,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5806422,S,,-,S,,,,-,,,,S,,
+51,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5807100,,,-,S,S,R,S,-,,,,S,S,S
+52,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5807727,R,,-,S,S,S,S,-,,,,S,S,S
+53,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,I,,,,R,,,,R,,I,,R,S,,,,R,R,,5807761,R,,-,S,S,R,S,-,,,,R,S,S
+54,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5809606,R,,-,S,,,,-,,,,S,,
+55,Cat,GP,Granulicatella adiacens/Kocuria kristinae,,,,,,,,,,,,,,,,,,,,,,,,,,5812034,,,-,,,,,,,,,,,
+56,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,R,,,,R,,,,R,,S,,R,R,,,,R,R,,5812397,R,,-,S,S,R,S,-,,,,R,S,S
+57,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,I,,S,,,,,,,,5813175,R,,-,S,,,,+,,,,S,,
+58,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,5814427,R,,-,S,R,R,S,-,,,,S,S,S
+59,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5815122,R,,-,S,R,R,S,-,,,,S,S,S
+60,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5815285,R,,-,S,,,,-,,,,S,,
+61,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5900001,R,,-,S,S,R,S,-,,,,R,S,S
+62,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5900090,S,,-,S,S,S,S,-,,,,S,S,S
+63,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,S,R,,5900368,R,,-,S,S,S,I,-,,,,S,S,S
+64,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,5900428,R,,-,S,S,R,S,-,,,,R,S,S
+65,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,I,,,,S,,,,R,,R,,R,S,,,,R,R,,5900619,R,,-,S,R,R,S,-,,,,R,S,S
+66,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5900992,R,,-,S,S,S,S,-,,,,S,S,S
+67,Dog,GP,Staphylococcus chromogenes,,,S,,I,S,,,,S,,,,S,,R,,S,S,,,,S,R,,5901117,,,-,S,R,R,S,-,,,,S,S,S
+68,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5901256,R,,-,S,R,R,S,-,,,,R,S,S
+69,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,I,,,,R,,,,R,,R,,R,S,,,,R,R,,5901329,R,,-,S,S,R,S,-,,,,R,S,S
+70,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,59101445,R,,-,S,R,R,S,-,,,,S,S,S
+71,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5902734,R,,-,S,S,R,S,-,,,,S,S,S
+72,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,S,,,,R,,,,R,,I,,R,S,,,,S,R,,5902841,R,,-,S,S,R,S,-,,,,R,S,S
+73,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5903029,R,,-,S,R,R,S,-,,,,S,S,S
+74,Dog,GP,Micrococcus luteus,,,,,,,,,,,,,,,,,,,,,,,,,,5903071,,,-,,,,,-,,,,,,
+75,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5903659,S,,-,S,S,S,S,-,,,,S,S,S
+76,Dog,GP,Antimicrobials,,,S,,R,I,,,,,,,,I,,S,,R,,,,,,,,5904911,R,,,S,,,,+,,,,R,,
+77,Cat,GP,Staphylococcus hominis ssp hominis,,,,,,,,,,,,,,,,,,,,,,,,,,5905056,,,,,,,,,,,,,,
+78,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,I,,S,,,,,,,,5905219,R,,-,S,,,,-,,,,S,,
+79,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,I,,S,,,,,,,,5905219,R,,-,S,,,,-,,,,S,,
+80,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5905276,R,,-,S,,,,-,,,,S,,
+81,Cat,GP,Antimicrobials,,,S,,R,R,,,,,,,,R,,R,,R,,,,,,,,5906034,R,,-,I,,,,-,,,,R,,
+82,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,,,,,I,,S,,S,S,,,,,R,,5906034,*R,,-,S,S,S,Mupirocin,-,,,,S,,S
+83,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5906180,R,,-,I,S,S,S,-,,,,R,S,S
+84,Dog,GP,Unidentified gram-positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,5906297,,,-,,,,,-,,,,,,
+85,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5906366,R,,-,S,S,S,S,-,,,,S,S,S
+86,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,I,,R,,,,,,,,5907085,R,,-,S,,,,-,,,,R,,
+87,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5907754,R,,-,S,S,S,S,-,,,,S,S,S
+88,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5907876,R,,-,S,S,R,S,-,,,,R,S,S
+89,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5908340,S,,-,S,S,S,S,-,,,,S,S,S
+90,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,5909031,R,,-,S,S,R,S,-,,,,R,S,S
+91,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5910114,S,,-,S,,,,-,,,,S,,
+92,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5910245,R,,-,S,S,S,S,-,,,,S,S,S
+93,Cat,GP,Antimicrobials,,,S,,I,S,,,,,,,,R,,I,,R,,,,,,,,5910425,R,,-,S,,,,-,,,,R,,
+94,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5910527,S,,,S,,,,-,,,,S,,
+95,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5910768,S,,-,S,,,,-,,,,S,,
+96,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5910943,R,,-,S,R,R,S,-,,,,S,S,S
+97,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,5910988,R,,-,S,S,S,S,-,,,,R,S,S
+98,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,I,,R,,,,,,,,5910988,R,,-,S,,,,-,,,,R,,
+99,Dog,GP,Staphylococcus auricularis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5910988,S,,-,S,S,S,S,-,,,,S,S,S
+100,Dog,GP,Staphylococcus lentus,,,S,,R,R,,,,S,,,,I,,S,,S,S,,,,S,S,,5910989,,,-,I,R,S,S,-,,,,R,R,S
+101,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5911066,R,,-,S,S,I,S,-,,,,S,S,S
+102,Cat,GP,Antimicrobials,,,S,,R,R,,,,,,,,R,,S,,R,,,,,,,,5911206,R,,+,S,,,,-,,,,R,,
+103,Dog,GP,Antimicrobials,,,S,,R,,,,,,,,,S,,,,S,,,,,,,,5911680,S,,,,,,,,,,,,,
+104,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5911800,R,,,S,,,,-,,,,S,,
+105,Dog,GP,Antimicrobials,,,,,,,,,,,,,,,,Enrofloxacin,,,,,,,,,,5911847,Amoxy/clav,,-,Cefpodoxime,,,,Antimicrobials,,,,,,
+106,Cat,GP,Antimicrobials,,,R,,R,R,,,,,,,,R,,S,,R,,,,,,,,5911918,R,,+,R,,,,-,,,,R,,
+107,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5911922,R,,-,S,S,S,S,-,,,S,S,S,S
+108,Cat,GP,Antimicrobials,,,S,,R,S,,,,,,,,S,,S,,S,,,,,,,,5911938,S,,+,R,,,,-,,,,R,,
+109,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5912074,R,,-,S,,,,-,,,,S,,
+110,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,S,,R,,,,,,,,5912074,R,,-,S,,,,-,,,,S,,
+111,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,5912269,R,,-,S,,,,-,,,,S,,
+112,Dog,GP,Antimicrobials,,,,,,,,,,,,,,,,Enrofloxacin,,,,,,,,,,5912352,Amoxy/clav,,-,Cefpodoxime,,,,Antimicrobials,,,,,,
+113,Dog,GP,Antimicrobials,,,,,,,,,,,,,,,,Enrofloxacin,,,,,,,,,,5912352,Amoxy/clav,,-,Cefpodoxime,,,,Antimicrobials,,,,,,
+114,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,I,,R,,,,,,,,5912504,R,,-,S,,,,-,,,,S,,
+115,Dog,GP,Streptococcus agalactiae,,,S,,S,,,,,,,,,,,,,,,,,,,,,5912740,,,,S,,,,,,,,,,
+116,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5912854,,,-,S,S,S,S,-,,,,S,S,S
+117,Cat,GP,Streptococcus pluranimalium,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5912865,S,,-,S,S,S,S,-,,,,S,S,S
+118,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,S,,S,,S,,,,,,,,5913300,R,,-,S,,,,-,,,,S,,
+119,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5913382,R,,-,S,S,S,S,-,,,,S,S,S
+120,Dog,GP,Antimicrobials,,,S,,R,,,,,,,,,S,,,,S,,,,,,,,5913399,S,,,,,,,,,,,,,
+121,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5903629,S,,-,S,S,S,S,-,,,,S,S,S
+122,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,5913702,R,,-,S,S,R,S,-,,,,S,S,S
+123,Dog,GP,Antimicrobials,,,S,,S,,,,,,,,,R,,,,R,,,,,,,,5913775,,,,S,,,,,,,,,,
+124,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5913920,,,-,S,S,S,S,-,,,,R,S,S
+125,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914159,S,,-,S,S,S,S,-,,,,S,S,S
+126,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,5914317,R,,-,S,S,R,S,+,,,,S,S,S
+127,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914435,R,,-,S,S,S,S,-,,,,S,S,S
+128,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,S,R,,5914498,,,-,S,S,S,S,-,,,,R,S,S
+129,Cat,GP,Streptococcus spp.,,,S,,S,S,,,,,,,,,,,,,,,,,,,,5914575,,,,S,,,,,,,,,,
+130,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914581,S,,-,S,S,S,S,-,,,,S,S,S
+131,Dog,GP,Streptococcus infantarius ssp coli,,,S,,S,,,,,,,,,,,,,I,,,,,,,,5914638,,,,S,,,,,,,,,,
+132,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,5914651,R,,-,S,S,R,S,-,,,,R,S,S
+133,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914689,S,,-,S,S,S,S,-,,,,S,S,S
+134,Cat,GP,Enterococcus faecalis (1.6 x 105 CFU/mL),,,S,,,,,,,S,,,,R,,,,R,S,,,,*R,R,,5914727,S,,,,R,R,,,,,,,,S
+135,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,59144851,S,,,,R,R,,,,,,,,S
+136,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,5915077,,,-,S,S,S,S,-,,,,S,S,S
+137,Dog,GP,Staphylococcus pseudintermedius (3.4x105 CFU/mL),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5915079,S,,-,S,S,S,S,-,,,,S,S,S
+138,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5915225,R,,-,S,S,S,S,-,,,,S,S,S
+139,Cat,GP,Kocuria varians,,,,,,,,,,,,,,,,,,,,,,,,,,5915270,,,,,,,,,,,,,,
+140,Cat,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5915284,S,,-,S,S,S,S,-,,,,S,S,S
+141,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5915290,*R,,-,S,S,S,S,-,,,S,S,S,S
+142,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5915292,*R,,-,S,S,S,S,-,,,S,S,S,S
+143,Dog,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,5612943,,,-,,,,,,,,,,,
+144,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5915413,*R,,-,S,S,S,S,-,,,,S,S,S
+145,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5915512,R,,-,S,S,S,S,-,,,,S,S,S
+146,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,5915790,*R,,-,S,S,S,*R,-,,,,R,S,S
+147,Dog,GP,Corynebacterium spp. (9.8 x 104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,5915893,,,,,,,,,,,,,,
+148,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,5915960,S,,,,R,R,,,,,,,,S
+149,Dog,GP,Antimicrobials,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,S,,5916009,R,,-,S,R,R,S,-,,,,S,S,S
+150,Dog,GP,Aerococcus viridans,,,,,,,,,,,,,,,,,,,,,,,,,,5916052,,,,,,,,,,,,,,
+151,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,R,,,,I,,S,,I,S,,,,S,R,,5916164,*R,,-,S,S,R,S,-,,,,S,S,S
+152,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5916367,S,,-,S,S,S,S,-,,,,S,S,S
+153,Cat,GP,Staphylococcus haemolyticus,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,5916467,R,,+,S,S,R,*R,-,,,,R,S,S
+154,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5916485,S,,-,S,S,S,S,-,,,,S,S,S
+155,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5916513,S,,-,S,S,S,S,-,,,,S,S,S
+156,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,5916528,R,,-,S,R,R,S,-,,,,S,S,S
+157,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,,,,,R,,R,,R,S,,,,,R,,5916661,R,,-,S,S,R,S,-,,,>=64,S,,S
+158,Dog,GP,Streptococcus sp.,,,S,,S,,,,,,,,,,,,,I,,,,,,,,5916822,,,,S,,,,,,,,,,
+159,Dog,GP,Staphylococcus hyicus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5917023,*R,,-,S,S,S,S,-,,,,S,S,S
+160,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5917114,R,,-,S,S,S,S,-,,,,S,S,S
+161,Cat,GP,Streptococcus equinus,,,,,Gentamicin,,,,,,,,,,,,,Inducible clindamycin,,,,,4)	Recommendation of antimicrobial choices,Nitrofurantoin,,5917165,,,Benzyl penicillin,,,Clindamycin,,,,,Chloramphenicol,Cefalotin,,
+162,Dog,GP,Staphylococcus pseudintermedius (2.7x105 CFU/ml),,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,5917208,R,,-,S,R,R,S,-,,,,R,S,S
+163,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,5917349,R,,,,*R,R,,,,,,,,S
+164,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,I,,S,S,,,,R,R,,5917360,R,,-,S,S,R,S,-,,,,S,S,S
+165,Dog,GP,Kocuria rosea,,,S,,S,S,,,,S,,,,S,,S,,S,R,,,,S,S,,5917372,*R,,-,S,,I,S,-,,,,S,S,S
+166,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5917385,R,,-,S,S,R,S,-,,,,R,S,S
+167,Cat,GP,Staphylococcus schleiferi,,,S,,S,I,,,,S,,,,I,,S,,R,S,,,,S,R,,5917500,*R,,*+,S,R,R,S,-,,,,*S,S,S
+168,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5917648,R,,,,R,R,,,,,,,,S
+169,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5917671,*R,,-,S,S,S,S,-,,,,S,S,S
+170,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5917712,*R,,-,S,S,S,S,-,,,S,S,S,S
+171,Dog,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,5917772,,,-,,,,,,,,,,,
+172,Cat,GP,Corynebacterium spp.,,,,,Enrofloxacin,,,,,,,,,,,,,Antimicrobials,,,,,Bacterial Species identification,Fusidic acid,,5917829,,,Amoxy/clav,,,Vancomycin,,,,,Rifampicin,Cefpodoxime,,
+173,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5917868,R,,-,S,S,S,S,-,,,,S,S,S
+174,Dog,GP,Corynebacterium spp. (1.3 x 105 CFU/ml),,,,,Enrofloxacin,,,,,,,,,,,,,Antimicrobials,,,,,Bacterial Species identification,Fusidic acid,,5917891,,,Amoxy/clav,,,Vancomycin,,,,,Rifampicin,Cefpodoxime,,
+175,Dog,GP,Corynebacterium spp. (ไม่มีผลจากVITEKค่ะ เป็นผลวางดิสก์ยาค่ะ),,,,,,Gentamicin,,,,,,,,,,,,Antimicrobials,,,,,,,,5917891,,,Amoxy/clav,,,,,,,,,,,
+176,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5917892,R,,-,S,S,S,S,-,,,,S,S,S
+177,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5902734,R,,-,S,S,S,S,-,,,,S,S,S
+178,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918050,S,,-,S,S,S,S,-,,,,S,S,S
+179,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,R,,R,S,,,,R,S,,5918113,R,,-,S,S,R,S,-,,,,R,S,S
+180,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5918219,R,,-,S,S,S,S,-,,,,S,S,S
+181,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5918262,R,,-,S,S,S,S,-,,,,S,S,S
+182,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918561,R,,-,S,S,S,S,-,,,,S,S,S
+183,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5918637,R,,-,S,S,R,S,-,,,S,S,S,S
+184,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918664,R,,-,S,S,S,S,-,,,S,S,S,S
+185,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5918744,*R,,-,S,S,R,S,-,,,,S,S,S
+186,Cat,GP,Corynebacterium spp (ไม่มีผลจากVITEKค่ะ เป็นผลวางดิสกยาค่ะ),,,,,,Gentamicin,,,,,,,,,,,,Antimicrobials,,,,,,,,5918882,,,Amoxy/clav,,,,,,,,,,,
+187,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918962,S,,-,S,S,S,S,-,,,,S,S,S
+188,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,R,,S,S,,,,R,R,,5919151,S,,-,S,S,R,S,-,,,,S,S,S
+189,Dog,GP,Staphylococcus cohnii ssp unrealyticus (1x103 CFU/mL),,,*R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,5919240,*R,,+,*R,R,R,*R,-,,,,R,S,S
+190,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5919440,R,,-,S,S,S,S,-,,,S,S,S,S
+191,Cat,GP,Kocuria kristinae,,,S,,S,R,,,,S,,,,I,,S,,I,I,,,,S,S,,5919496,S,,-,S,S,I,S,-,,,,R,S,S
+192,Cat,GP,Streptococcus dysgalactiae ssp equisimilis,,,S,,S,,,,,S,,,,I,,,,S,S,,,,S,S,,5919567,S,,,S,,,,,,,,,,S
+193,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5919812,*R,,-,S,S,S,S,-,,,S,S,S,S
+194,Dog,GP,Staphylococcus pseudintermedius (2.8 x 106 CFU/ml),,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5919923,R,,-,S,S,R,S,+,,,S,S,S,S
+195,Cat,GP,Staphylococcus haemolyticus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5920064,S,,-,S,S,S,S,-,,,,S,S,S
+196,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5920188,S,,-,S,S,S,S,-,,,S,S,S,S
+197,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5920244,R,,-,S,S,S,S,-,,,S,S,S,S
+198,Dog,GP,Streptococcus canis,,,S,,S,,,,,,,,,,,,,,,,,,,,,5920286,,,,S,,,,,,,,,,
+199,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,MIC427-59,R,,-,S,,,,-,,,,R,,
+200,Dog,GP,Antimicrobials,,,S,,S,S,,,,,,,,R,,R,,R,,,,,,,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา 
+		Results of Antimicrobial Susceptibility Testing (AST)
+		Submitted No	458/59	  Hosp  รพ.ส. มีสุข
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of submission	29/08/2016 	Date of sample collection	29/08/2016 	
+Owner   ขวัญลดา เสมอวงษ์      		Patient	   คูเป้   		Species	      C		Breed 	Pomeranian	
+Sex		unk	 		Age	3	year(s)	   -	month(s)	
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample	 bite wound (เคยได้รับ clindamycin)	 Method of collection	swabbing	
+Vitek ID card	   GP 	Lot No	242398240     			Vitek AST card		GP76		
+3)	ผลจากห้องปฏิบัติการ (Vitek®):			Bacterial Species identification Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+>=0.5
+R
+Amoxy/clav
+<=2
+S
+Oxacillin
+<=0.25
+S
+Cefalotin
+<=2
+S
+Cefpodoxime
+<=0.5
+S
+Cefovecin
+<=0.5
+S
+Gentamicin
+>=16
+R
+Enrofloxacin
+>=4
+R
+Marbofloxacin
+>=4
+R
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+0.5
+S
+Vancomycin
+1
+S
+Tetracycline
+>=16
+R
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+NA
+NA
+Chloramphenicol
+>=64
+R
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+>=320
+R
+	Bacterial identification:  methicillin-susceptible Staphylococcus pseudintermedius
+--		เป็นการติดเชื้อที่บาดแผล แนะนำให้ทำความสะอาดแผลด้วย wound irrigation solution หรือ antiseptics เช่น Prontosan®, chlorhexidine ร่วมกับการใช้ยาต้านจุลชีพเฉพาะที่ เช่น amikacin ถึงแม้จากค่า MIC เชื้อจะดื้อต่อยาในกลุ่มนี้ แต่การใช้ยาภายนอก ความเข้มข้นของยาที่สัมผัสกับเชื้อจะสูงกว่าระดับยาในเลือดมาก จึงสามารถใช้กำจัดเชื้อได้
+--	ในกรณีที่แผลมีขนาดใหญ่และลึกเป็นบริเวณกว้าง แสดงการอักเสบและติดเชื้อรุนแรง มีความเสี่ยงต่อการติดเชื้อทางระบบ ยาต้านจุลชีพตามระบบที่แนะนำ ได้แก่
+	--		Amoxycillin/clavulanic acid 25 mg/kg q12h PO AC for 7-10 days 
+	--		Cephalexin 25 mg/kg q12h PO for 7-10 days 
+	--		Clindamycin 11 mg/kg q12h or 22 mg/kg q24h PO AC for 7-10 days 
+ทั้งนี้การให้กินยาต้านจุลชีพ อาจให้กินยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือให้ยาต่อเนื่องไปอีก 1 - 2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--		Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้ง 14 วันหลังจากให้เข็มแรก หากอาการยังไม่หายสนิท
+--		จากผลการทดสอบความไวรับ เชื้อนี้ยังแสดงความไวรับต่อ clindamycin จึงยังสามารถใช้ยาเดิมที่ให้ในการรักษาได้ แต่ควรปรับขนาดและความถี่ในการให้ยา เพื่อให้ยามีประสิทธิภาพในการรักษาได้ดีขี้น
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, อ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง (ผู้ทำการอ่านผลและแนะนำ) 2 กันยายน  2559
+โทร 02-2189732 nipattra@gmail.com",R,,-,S,,,,-,,,,S,,
+201,Unk,GP,Staphylococcus pseudinternedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,O58101949,,,-,S,R,S,S,-,,,,S,S,S
+202,Dog,GP,Antimicrobials,,,*R,,R,*R,,,,S,,,,R,,S,,R,S,,,,S,R,,รพ.ส.มีสุข,*R,,+,*R,R,S,S,-,,,S,R,S,S
+0,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5400015,*R,,,S,R,S,S,-,,,,R,S,S
+1,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5400022,R,,-,S,S,S,S,-,,,S,S,S,S
+2,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,5400040,S,,-,S,S,S,S,-,,,S,S,S,S
+3,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5400040,R,,-,S,R,R,S,-,,,S,R,S,S
+4,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5400041,R,,-,S,S,S,S,-,,,S,R,S,S
+5,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5500365,*R,,*+,R,R,R,S,-,,,R,R,S,S
+6,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,5501081,R,,-,S,S,R,S,-,,,R,R,S,S
+7,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5501081,,,-,S,S,R,S,-,,,,R,S,S
+8,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5502161,R,,-,S,S,S,S,-,,,S,S,S,S
+9,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,R,,,,R,,,,R,,R,,R,S,,,,R,R,,5502262,R,,-,S,S,R,S,-,,,,R,S,S
+10,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5502545,R,,-,S,S,S,S,-,,,,R,S,S
+11,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5502593,*R,,-,S,R,R,S,-,,,,R,S,S
+12,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5502771,R,,-,S,S,S,S,-,,,S,S,S,S
+13,Dog,GP,Staphylococcus schleiferi,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5503106,,,-,S,R,R,S,+,,,R,R,S,S
+14,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5503499,*R,,-,S,S,S,S,-,,,,R,S,S
+15,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,5504384,R,,-,S,S,R,S,-,,,S,R,S,S
+16,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,5504399,R,,-,S,S,S,S,-,,,S,S,S,S
+17,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5505254,R,,-,S,S,S,S,-,,,S,R,S,S
+18,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,5505604,R,,-,S,R,R,S,-,,,S,R,S,S
+19,Dog,GP,Enterococcus faecium (2.2x107 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5506054,R,,,,R,R,,,,,,,,S
+20,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5506180,R,,-,I,R,R,S,-,,,S,R,S,S
+21,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5506189,R,,-,S,S,S,S,-,,,S,R,S,S
+22,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5507033,S,S,,,S,S,,,S,S,,,,S
+23,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5507338,R,,-,S,R,R,S,-,,,S,S,S,S
+24,Dog,GP,Methicillin-resistant Staphylococcus schleiferi,,,,,,,,,,,,,,,,,,,,,,,,,,5507427,,,,,,,,,,,,,,
+25,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5508352,R,,-,S,S,S,S,-,,,S,S,S,S
+26,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5509041,*R,,-,S,S,S,S,-,,,,S,S,S
+27,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5509664,R,,+,R,R,R,S,-,,,S,R,S,S
+28,Cat,GP,Staphylococcus sciuri,,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,5511610,S,,-,S,S,S,I,-,,,,R,S,S
+29,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5512335,R,,-,S,S,S,S,-,,,S,S,S,S
+30,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,S,,S,S,,,,R,R,,5512963,R,,-,S,R,R,S,-,,,S,S,S,S
+31,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5513466,R,,-,S,S,S,S,-,,,,S,S,S
+32,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5513549,R,,,,*R,R,,,,,,,,S
+33,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5516881,R,,+,R,R,R,S,-,,,S,R,S,S
+34,Dog,GP,Enterococcus faecalis (2.0x103 CFU/ml),,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,5516895,S,,,,R,R,,,,,,,,S
+35,Dog,GP,Enterococcus faecium (2.4x107 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5517804,R,,,,R,R,,,,,,,,S
+36,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5517804,S,S,,,S,,,,S,S,,,,S
+37,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5518730,R,,-,S,S,S,S,-,,,S,S,S,S
+38,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,S,,5519218,R,,-,S,S,S,S,-,,,S,S,S,S
+39,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5519285,R,,-,S,S,R,S,-,,,S,S,S,S
+40,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,5519658,S,,,,R,R,,,,,,,,S
+41,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5520717,R,,-,S,S,S,S,-,,,S,S,S,S
+42,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,I,,I,,S,S,,,,S,R,,5520926,R,,-,S,R,R,S,-,,,S,R,S,S
+43,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5601408,R,,-,R,R,R,S,-,,,S,R,S,S
+44,Cat,GP,Methicillin-susceptible Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5601778,S,,-,S,S,S,S,-,,,,S,S,S
+45,Cat,GP,Staphylococcus hominis ssp hominis or Staphylococcus saprohyticus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5602091,R,,-,S,S,S,S,-,,,S,S,S,S
+46,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5602818,R,,-,S,R,S,S,-,,,S,S,S,S
+47,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5604831,R,,-,S,S,S,S,-,,,S,S,S,S
+48,Dog,GP,Streptococcus sp.,,S,,,,,,S,,,,,,,,,,,,,,,,R,,5604605,I,S,,,S,S,,,S,S,,,,S
+49,Cat,GP,Enterococcus faecium (9.2x104 CFU/ml),,,R,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,5605596,R,,,,R,R,,,,,,,,S
+50,Dog,GP,Staphylococcus pseudintermedius (1.7x105 CFU/ml),,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5605713,R,,-,S,R,R,S,-,,,S,R,S,S
+51,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5607561,R,,+,R,R,R,S,-,,,S,R,S,S
+52,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5607561,R,,-,S,S,S,S,-,,,S,S,S,S
+53,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5607663,R,,-,S,S,S,S,-,,,S,S,S,S
+54,dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,S,,5608059,R,,-,S,S,R,S,+,,,,R,S,S
+55,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5608743,R,,-,S,R,R,S,-,,,,R,S,S
+56,Dog,GP,Staphylococcus pseudintermedius (> 1 x 105 cfu/mL),,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,5609004,R,,-,S,R,R,S,-,,,S,S,S,S
+57,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5609028,*R,,-,S,S,S,S,-,,,,S,S,S
+58,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,5609546,S,,,,R,R,,,,,,,,S
+59,Dog,GP,Streptococcus gallolyticus ssp pasteurianus,,,S,,S,,,,,S,,,,R,,,,R,S,,,,R,R,,5609546,S,,,S,,,,,,,,,,S
+60,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,R,S,,,,S,R,,5610194,R,,-,S,R,R,S,-,,,S,R,S,S
+61,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,S,R,,5610429,R,,-,S,S,R,S,-,,,S,R,S,S
+62,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,R,S,,,,S,R,,5611527,R,,-,S,S,S,S,-,,,S,R,S,S
+63,Dog,GP,Enterococcus avium,,,I,,R,,,,,R,,,,R,,,,R,S,,,,S,R,,5613768,R,,,,R,R,,,,,,,,S
+64,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5614063,*R,,*+,*R,R,R,S,-,,,,R,S,S
+65,Dog,GP,Streptococcus agalactiae,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5614161,S,S,,,S,S,,-,S,S,,,,S
+66,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5614252,R,,-,S,S,S,S,-,,,S,R,S,S
+67,Cat,GP,Enterococcus faecalis (1.19x105 CFU/ml),,,S,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,5615343,S,,,,R,R,,,,,,,,S
+68,Cat,GP,Unidentified Gram positive cocci (> 1 X 105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,5615343,,,,,,,,,,,,,,
+69,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,I,,S,,I,S,,,,R,R,,5617493,R,,+,R,R,R,I,-,,,I,R,I,S
+70,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5700245,R,,-,S,S,S,S,-,,,S,R,S,S
+71,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5700245,R,,-,S,S,S,S,-,,,S,S,S,S
+72,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5700340,R,,-,S,S,R,S,-,,,S,S,S,S
+73,Cat,GP,Staphylococcus auricularis (2.8x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5702002,S,,-,S,S,S,S,-,,,S,S,S,S
+74,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5702037,S,S,,,S,S,,,S,S,,,,S
+75,Cat,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5702068,,,-,S,R,R,S,+,,,R,R,S,S
+76,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5703378,R,,-,I,R,R,S,-,,,S,R,S,S
+77,Dog,GP,Staphylococcus pseudintermedius (2.7x104 CFU/ml),,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,R,,5704120,R,,-,S,S,R,S,+,,,S,S,S,S
+78,Cat,GP,Staphylococcus saprophyticus (2.3 x 104 CFU/ml),,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,5704194,R,,+,R,R,R,R,-,,,S,R,S,S
+79,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,5705158,R,,-,S,S,R,S,-,,,S,S,S,S
+80,Dog,GP,Staphylococcus hominis ssp hominis,,,*R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,S,,5705609,*R,,+,R,R,R,S,-,,,S,R,S,S
+81,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5706033,*R,,-,S,S,R,*R,-,,,,S,S,S
+82,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,S,R,,5706120,R,,-,S,S,R,S,-,,,,S,S,S
+83,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,S,R,,5706217,R,,-,S,R,R,S,-,,,R,R,S,S
+84,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,S,,,,S,S,,,,*R,R,,5706217,S,,,,R,R,,,,,,,,S
+85,Dog,GP,Streptococcus anginosus,,S,,,,,,S,,,,,,,,,,,,,,,,R,,5706301,S,S,,,S,S,,,S,S,,,,S
+86,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,S,,,,S,S,,,,R,R,,5706301,S,,,,R,R,,,,,,,,S
+87,Dog,GP,Staphylococcus pseudintermedius (2.1x105 CFU/ml),,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,R,R,,5706357,R,,-,S,R,R,S,-,,,S,R,S,S
+88,Dog,GP,Enterococcus faecium (9.7x104 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5706357,R,,,,R,I,,-,,,,,,S
+89,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5707231,R,,-,S,S,S,S,-,,,S,S,S,S
+90,Dog,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,5707731,,,-,,,,,-,,,,,,
+91,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,5708925,R,,-,S,S,S,S,-,,,S,S,S,S
+92,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,R,,R,S,,,,S,R,,5709125,R,,-,S,R,R,S,-,,,S,R,S,S
+93,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5709470,S,S,,,S,S,,,S,S,,,,S
+94,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,5710791,R,,-,S,R,R,S,-,,,R,S,S,S
+95,Dog,GP,Enterococcus raffinosus,,,S,,R,,,,,S,,,,I,,,,I,I,,,,*R,R,,5711103,S,,,,R,R,,,,,,,,S
+96,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5712130,S,S,,,S,S,,,S,S,,,,S
+97,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,R,S,,5712500,*R,,-,S,S,S,S,-,,,,R,S,S
+98,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,5713935,S,,,,R,R,,,,,,,,S
+99,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5713997,S,,-,S,S,S,S,-,,,S,S,S,S
+100,Dog,GP,Streptococcus canis,,,S,,S,,,,,,,,,,,,,,,,,,,,,5714137,,,,S,,,,,,,,,,
+101,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5714339,R,,-,S,S,S,S,-,,,S,R,S,S
+102,Dog,GP,Unidentified gram positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,5714621,,,,,,,,,,,,,,
+103,Dog,GP,Staphylococcus aureus,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,R,S,,5714959,R,,-,S,R,R,S,-,,,S,S,S,S
+104,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5715824,S,,-,S,S,S,S,-,,,S,S,S,S
+105,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,5715868,S,,,,R,R,,,,,,,,S
+106,Dog,GP,Staphylococcus xylosus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5717069,S,,-,S,S,I,S,-,,,,S,S,S
+107,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5718270,S,S,,,S,S,,,S,S,,,,S
+108,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5710585,R,,-,S,R,R,S,-,,,S,R,S,S
+109,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5801449,S,S,,,S,S,,,S,S,,,,S
+110,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,R,,R,,R,S,,,,S,R,,5802585,R,,-,S,R,R,S,-,,,R,R,S,S
+111,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,I,,S,S,,,,R,R,,5802893,R,,-,S,R,R,S,-,,,S,R,S,S
+112,Dog,GP,Staphylococcus aureus,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5803545,R,,+,R,R,R,S,-,,,S,R,S,S
+113,Dog,GP,Methicillin-resistant Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,R,S,,,,S,R,,5804234,R,,-,S,S,S,S,-,,,S,R,S,S
+114,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,I,,,,R,,,,R,,R,,R,S,,,,R,R,,5804251,R,,-,S,S,R,S,-,,,S,R,S,S
+115,Dog,GP,Staphylococcus cohnii ssp unrealyticus,,,*R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,5804251,*R,,+,*R,R,R,R,-,,,,R,S,S
+116,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5805524,R,,+,R,R,R,S,-,,,S,R,S,S
+117,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5806114,*R,,-,S,S,S,S,-,,,,R,S,S
+118,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5806719,R,,-,S,S,S,S,-,,,S,S,S,S
+119,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5806719,*R,,-,S,S,S,S,-,,,S,S,S,S
+120,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5807161,R,,-,S,R,R,S,+,,,S,S,S,S
+121,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,I,,,,R,,S,,R,S,,,,S,R,,5807521,R,,-,S,S,S,S,-,,,S,R,S,S
+122,Dog,GP,Streptococcus sp.,,S,,,,,,S,,,,,,,,,,,,,,,,R,,5807727,S,S,,,S,S,,,S,S,,,,S
+123,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5807776,R,,-,S,R,R,S,-,,,S,R,S,S
+124,Dog,GP,Staphylococcus pseudintermedius (1.2x105 CFU/ml),,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,5809195,R,,-,S,R,R,S,-,,,S,S,S,S
+125,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,5809195,R,,-,S,S,R,S,+,,,S,R,S,S
+126,Dog,GP,Enterococcus avium,,,S,,R,,,,,,,,,,,,,R,,,,,,,,5809820,,,,,,,,,,,,,,
+127,Cat,GP,Staphylococcus pseudintermedius or lugdunensis (>105 CFU/mL),,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,5812140,R,,-,S,R,R,S,-,,,R,R,S,S
+128,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5812427,S,,-,S,S,S,S,-,,,,S,S,S
+129,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,5812447,R,,+,S,R,R,S,-,,,S,R,S,S
+130,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,5812589,R,,-,S,R,R,S,-,,,S,R,S,S
+131,Cat,GP,Unidentified gram-positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,5813194,,,,,,,,,,,,,,
+132,Cat,GP,Staphylococcus hominis ssp hominis (Coagulase negative Staphyloccus),,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,S,,5813914,R,,-,S,R,R,I,-,,,,R,S,S
+133,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,I,,,,I,,S,,I,S,,,,S,S,,5815186,*R,,-,S,R,I,S,-,,,R,S,S,S
+134,Cat,GP,Streptococcus pseudoporcinus,,,S,,I,,,,,S,,,,S,,,,S,S,,,,S,S,,5815272,S,,,S,,,,,,,,,,
+135,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,S,R,,5815292,*R,,-,S,R,R,S,-,,,,R,S,S
+136,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5816054,R,,-,S,S,S,S,-,,,S,S,S,S
+137,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5817054,R,,-,S,S,S,S,-,,,S,S,S,S
+138,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5817054,R,,-,S,S,S,S,-,,,S,S,S,S
+139,Dog,GP,Enterococcus faecium,,,S,,R,,,,,S,,,,R,,,,R,R,,,,*R,R,,5817236,S,,,,R,R,,-,,,,,,S
+140,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,5817565,R,,-,S,R,R,S,-,,,S,S,S,S
+141,Dog,GP,Staphylococcus chromogenes (Coagulase negative Staphylococcus),,,*R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,5817723,*R,,*+,*R,R,R,S,-,,,S,R,S,S
+142,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,R,I,,,,R,,,,I,,I,,S,S,,,,S,R,,5817831,*R,,-,S,S,S,S,-,,,S,R,S,S
+143,Dog,GP,Staphylococcus aureus,,,S,,R,S,,,,R,,,,R,,I,,R,S,,,,S,R,,5818224,*R,,-,S,R,R,S,-,,,S,R,S,S
+144,Dog,GP,Staphylococcus cohnii ssp urealyticus,,,S,,I,I,,,,S,,,,S,,S,,S,S,,,,S,S,,5900056,R,,-,S,R,R,R,-,,,,R,S,S
+145,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5900120,R,,-,R,R,R,S,-,,,S,R,S,S
+146,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,59000127,S,S,,,S,S,,,S,S,,,,S
+147,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,5900127,,,,,,,,,,,,,,
+148,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5900196,R,,-,S,S,S,S,-,,,S,S,S,S
+149,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5900421,R,,-,S,R,S,S,-,,,S,S,S,S
+150,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5900476,R,,-,S,R,R,S,-,,,S,R,S,S
+151,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5900527,S,,-,S,S,S,S,-,,,S,S,S,S
+152,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5900973,S,,-,S,S,S,S,-,,,S,S,S,S
+153,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5901100,R,,-,S,S,S,S,-,,,S,R,S,S
+154,Dog,GP,Staphylococcus schleiferi,,,S,,S,I,,,,S,,,,I,,S,,S,S,,,,S,R,,5901256,*R,,-,S,R,R,S,-,,,R,R,S,S
+155,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5901256,*R,,-,S,R,R,S,-,,,,R,S,S
+156,Dog,GP,Staphylococcus pseudintermedius (2.4x106 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5901260,S,,-,S,S,S,S,-,,,S,S,S,S
+157,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,S,R,,5901483,R,,-,S,S,I,S,-,,,R,R,S,S
+158,Dog,GP,Staphylococcus pseuedintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5901596,S,,-,S,S,S,S,-,,,S,S,S,S
+159,Dog,GP,Enterococcus faecalis (1.8x107 CFU/ml),,,S,,S,,,,,R,,,,R,,,,R,S,,,,R,R,,5901732,S,,,,R,R,,,,,,,,S
+160,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,5902108,R,,-,S,R,R,S,-,,,S,S,S,S
+161,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5902512,R,,-,S,R,R,S,-,,,R,R,S,S
+162,Cat,GP,Corynebacterium spp. (>105 CFU/mL),,,,,,,,,,,,,,,,,,,,,,,,,,5903651,,,,,,,,,,,,,,
+163,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5903808,R,,+,R,R,R,S,-,,,R,R,S,S
+164,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5904136,S,,-,S,*R,*R,S,+,,,,S,S,S
+165,Dog,GP,Staphylococcus pseudintermedius (1.45x105 CFU/ml),,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,S,R,,5904550,R,,-,S,R,R,S,-,,,S,R,S,S
+166,Dog,GP,Low discrimination between Staphylococcus aureus/Staphylococcys pseudintermedius (2.1x106 CFU/ml),,,R,,R,I,,,,R,,,,R,,R,,R,S,,,,S,R,,5904550,*R,,-,I,R,R,S,-,,,S,R,S,S
+167,Dog,GP,Staphylococcus pseudintermedius or Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,5904860,R,,-,S,S,S,S,-,,,S,S,S,S
+168,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5905056,*R,,-,S,S,S,S,-,,,,R,S,S
+169,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,I,,S,,S,S,,,,R,R,,5905301,R,,-,S,S,R,S,-,,,S,S,S,S
+170,Cat,GP,Kocuria varians,,,,,,,,,,,,,,,,,,,,,,,,,,5905524,,,,,,,,,,,,,,
+171,Dog,GP,Staphylococcus pseudintermedius (7.9x104 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5905791,R,,-,S,S,S,S,-,,,S,S,S,S
+172,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5905802,R,,+,R,S,R,S,-,,,S,R,S,S
+173,Cat,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,S,R,,5906034,R,,+,S,R,R,S,-,,,R,R,S,S
+174,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5906034,R,,-,S,S,S,S,-,,,S,R,S,S
+175,cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,5906034,R,,-,S,S,S,S,-,,,,R,S,S
+176,Cat,GP,Streptococcus agalactiae / Streptococcus pyogenes),,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5906034,S,S,,,S,S,,,S,S,,,,S
+177,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,5906380,R,,-,S,S,R,S,-,,,S,S,S,S
+178,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5906398,S,,-,S,S,S,S,-,,,,S,S,S
+179,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5906744,R,,-,S,S,S,S,-,,,S,S,S,S
+180,Dog,GP,Methicillin-resistant Staphylococcus aureus,,,,,,,,,,,,,,,,,,,,,,,,,,5906972,,,,,,,,,,,,,,
+181,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5907071,R,,-,S,S,R,S,+,,,S,R,S,S
+182,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5907114,S,,-,S,S,S,S,-,,,,S,S,S
+183,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,I,,,,R,,,,S,,R,,S,S,,,,R,R,,5907189,R,,-,S,S,R,S,-,,,S,R,S,S
+184,Dog,GP,Staphylococcus chromogenes,,,S,,S,I,,,,S,,,,I,,S,,S,S,,,,S,S,,5907267,*R,,-,S,S,S,S,-,,,,R,S,S
+185,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5907495,S,,-,S,S,S,S,-,,,,S,S,S
+186,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5907798,S,S,,,S,S,,,S,S,,,,S
+187,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,5907974,S,,,,R,S,,,,,,,,S
+188,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,5908420,R,,-,S,R,R,S,-,,,S,R,S,S
+189,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5908424,R,,-,S,S,S,S,-,,,S,S,S,S
+190,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5908424,R,,-,S,S,S,S,-,,,S,S,S,S
+191,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5908479,S,,-,S,S,S,S,-,,,,S,S,S
+192,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5908535,S,S,,,S,S,,,S,S,,,,S
+193,Dog,GP,Lactococcus garvieae,,,,,,,,,,,,,,,,,,,,,,,,,,5908654,,,,,,,,,,,,,,
+194,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,S,R,,5908743,R,,-,R,S,R,S,-,,,S,R,S,S
+195,Dog,GP,Staphylococcus aureus (7.3x106 CFU/ml),,,S,,I,I,,,,I,,,,R,,S,,R,S,,,,S,R,,5908743,R,,-,S,R,R,S,-,,,S,R,S,S
+196,Cat,GP,Staphylococcus kloosii,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5908748,R,,-,S,S,S,I,-,,,,R,S,S
+197,Dog,GP,Staphylococcus kloosii,,,R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,R,,5908998,R,,+,R,S,I,I,-,,,S,R,S,S
+198,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5909245,R,,-,S,R,S,S,-,,,S,S,S,S
+199,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5909573,R,,*+,R,R,R,S,-,,,R,R,S,S
+200,Dog,GP,Staphylococcus pseudintermedius (>1x105 cfu/mL),,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5909637,R,,-,S,S,I,S,-,,,S,S,S,S
+201,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,S,R,,5909704,R,,-,S,R,R,S,-,,,S,S,S,S
+202,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5910238,S,,-,S,S,S,S,-,,,S,S,S,S
+203,Cat,GP,Corynebacterium spp,,,,,,,,,,,,,,,,,,,,,,,,,,5910425,,,,,,,,,,,,,,
+204,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5910615,S,,-,S,S,S,S,-,,,S,S,S,S
+205,Dog,GP,Staphylococcus schleiferi,,,S,,R,S,,,,S,,,,I,,R,,R,S,,,,S,S,,5910615,*R,,-,S,R,R,S,+,,,R,R,S,S
+206,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5910615,R,,-,S,S,S,S,-,,,S,S,S,S
+207,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5910989,R,,-,S,S,S,S,-,,,S,S,S,S
+208,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5910989,R,,-,S,S,S,S,-,,,S,S,S,S
+209,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,S,,5910989,R,,-,S,S,S,S,-,,,S,S,S,S
+210,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5911025,R,,-,S,S,S,S,-,,,S,S,S,S
+211,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,5911522,R,,+,R,R,R,S,-,,,R,R,S,S
+212,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5911718,R,,-,S,S,S,S,-,,,S,S,S,S
+213,Dog,GP,Streptococcus dysagalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,5912438,,,,,,,,,,,,,,
+214,Dog,GP,Staphylococcus schleiferi,,,S,,S,I,,,,S,,,,R,,S,,R,S,,,,S,R,,5912657,*R,,-,S,S,S,S,-,,,S,R,S,S
+215,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,5912869,S,S,,,S,S,,,S,S,,,,S
+216,Cat,GP,Non or low reactive biopattern (gram-positive cocci) 2.3 x 105CFU/ml ทำครั้งที่ 2,,,,,,,,,,,,,,,,,,,,,,,,,,5913009,,,,,,,,,,,,,,
+217,Cat,GP,Non or low reactive biopattern (gram-positive cocci) 2.3 x 105CFU/ml ทำครั้งที่ 2,,,,,,,,,,,,,,,,,,,,,,,,,,5913009,,,,,,,,,,,,,,
+218,Cat,GP,Unidentified gram-positive cocci (2.3 x 105CFU/ml) (repeat),,,,,,,,,,,,,,,,,,,,,,,,,,5913009,,,,,,,,,,,,,,
+219,Dog,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5913232,R,,-,S,R,R,S,-,,,S,S,S,S
+220,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5913324,R,,-,S,R,R,S,+,,,R,S,S,S
+221,Cat,GP,Staphylococcus caprae,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914717,*R,,-,S,S,S,S,-,,,S,S,S,S
+222,Dog,GP,Staphylococcus auricularis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5914845,R,,-,S,S,S,S,-,,,S,S,S,S
+223,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,I,,,,R,,S,,R,S,,,,S,R,,5915353,*R,,-,S,S,S,S,-,,,,S,S,S
+224,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,5915667,R,,-,S,S,R,S,+,,,S,R,S,S
+225,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,5915745,R,,-,S,S,R,S,-,,,R,R,S,S
+226,Cat,GP,Kocuria varians (> 1X 105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,5916204,,,,,,,,,,,,,,
+227,Dog,GP,Staphylococcus schleiferi,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,S,R,,5916314,,,-,S,S,R,S,-,,,R,R,S,S
+228,Dog,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,5916343,,,,,,,,,,,,,,
+229,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,5916360,R,,+,S,S,R,S,-,,,S,R,S,S
+230,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5916535,R,,-,S,S,S,S,-,,,S,S,S,S
+231,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5916631,R,,-,R,R,R,S,-,,,S,R,S,S
+232,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5917069,R,,-,S,R,S,S,-,,,S,S,S,S
+233,Dog,GP,Staphylococcus pseudintermedius (4 x 103 CFU/ml),,,S,,I,I,,,,S,,,,R,,I,,R,S,,,,R,R,,5917208,R,,-,S,R,R,S,-,,,,R,S,S
+234,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5917276,R,,-,S,S,S,S,-,,,S,S,S,S
+235,Dog,GP,Staphylococcus capitis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5917470,S,,-,S,I,S,S,-,,,S,S,S,S
+236,Cat,GP,Corynebacterium spp. (ไม่มีผลจากVITEKค่ะ เป็นผลวางดิสก์ยาค่ะ),,,,,,,,,,,,,,,,,,,,,,,,,,5917829,,,,,,,,,,,,,,
+237,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,R,,R,S,,,,R,S,,5918113,R,,-,S,S,R,S,-,,,S,R,S,S
+238,Dog,GP,Staphylococcus aureus,,,*R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,5918126,*R,,+,*R,R,S,S,-,,,S,R,S,S
+239,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,I,,S,,R,S,,,,S,R,,5918317,*R,,-,S,S,S,S,-,,,S,R,S,S
+240,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918543,R,,-,S,S,S,S,-,,,S,S,S,S
+241,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5918669,S,,-,S,S,S,S,-,,,,S,S,S
+242,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5918907,S,,-,S,R,R,S,-,,,,S,S,S
+243,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,5918925,*R,,-,S,S,S,S,-,,,,R,S,S
+244,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,5919245,R,,+,S,R,R,S,-,,,S,R,S,S
+245,Cat,GP,Streptococcus pseudoporcinus,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,5919315,S,S,,,S,S,,-,S,S,,,,S
+246,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,5919326,R,,-,S,S,S,S,-,,,S,S,S,S
+247,Cat,GP,Staphylococcus aureus,,,S,,S,I,,,,R,,,,I,,R,,R,S,,,,R,R,,5919407,R,,-,S,R,R,S,-,,,R,S,S,S
+248,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,S,R,,5919424,*R,,-,S,R,R,S,-,,,,R,S,S
+249,Dog,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,5919424,,,,,,,,,,,,,,
+250,Dog,GP,Enterococcus faecium (5.3x106 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,5919440,R,,,,R,R,,,,,,,,S
+251,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,S,,5919828,R,,-,S,R,R,S,-,,,S,R,S,S
+252,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,5919828,*R,,*+,R,R,R,S,-,,,S,R,S,S
+253,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,5920034,S,,-,S,S,S,S,-,,,S,S,S,S
+254,Cat,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,5920176,,,,,,,,,,,,,,
+255,Dog,GP,Streptococcus mitis/Streptococcus oralis,,,R,,R,,,,,S,,,,I,,,,I,S,,,,S,I,,5920187,S,,,R,,,,,,,,,,
+256,Dog,GP,Staphylococcus pseudintermedius (6.8 x 106 CFU/ml),,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,S,,5920232,R,,-,S,R,R,S,-,,,,S,S,S
+257,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,5920384,R,,-,S,S,S,S,-,,,,S,S,S
+258,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,5920478,S,,-,S,S,S,S,-,,,S,R,S,S
+259,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6000037,S,,,,R,R,,,,,,,,S
+260,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,I,,S,S,,,,R,S,,6000081,R,,-,S,S,S,S,-,,,S,S,S,S
+261,Dog,GP,Enterococcus columbae,,,,,,,,,,,,,,,,,,,,,,,,,,6000087,,,,,,,,,,,,R,,
+262,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6000104,R,,-,S,R,R,S,-,,,S,R,S,S
+263,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,6000104,S,S,,,S,S,,,S,S,,,,S
+264,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6000128,*R,,-,S,S,S,S,-,,,S,S,S,S
+265,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,S,,,,S,S,,,,*R,R,,6000129,S,,,,R,R,,,,,,,,S
+266,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6000137,R,,-,S,S,S,*R,-,,,,R,S,S
+267,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,6000176,R,,-,S,S,R,S,-,,,S,S,S,S
+268,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6000271,S,,-,S,S,S,S,-,,,,S,S,S
+269,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,6000365,,,,,,,,,,,,,,
+270,Dog,GP,Staphylococcus pseudintermedius (1x103 CFU/ml),,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6000388,R,,-,S,R,R,S,-,,,R,R,S,S
+271,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6000430,R,,-,S,S,S,S,-,,,S,S,S,S
+272,Dog,GP,Staphylococcus aureus (2.9 x 105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6000480,R,,-,S,S,S,S,-,,,S,S,S,S
+273,Cat,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,6000527,R,,,,*R,R,,,,,,,,S
+274,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,R,R,,6000551,R,,-,S,S,S,S,-,,,,S,S,S
+275,Dog,GP,Streptococcus pneumoniae,,,,,,,,S,,,,,,,,,,,,,,,I,S,,6000659,S,S,,,R,*R,,,S,S,,,,S
+276,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,606767,R,,+,S,R,R,S,-,,,S,R,S,S
+277,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6000707,R,,-,S,R,R,S,-,,,R,S,S,S
+278,Dog,GP,Staphylococcus chromogenes,,,*R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6000707,*R,,*+,*R,R,R,S,-,,,,R,S,S
+279,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6000716,R,,-,S,S,S,S,-,,,S,S,S,S
+280,Cat,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,6000838,,,,,,,,,,,,,,
+281,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6000938,R,,-,S,S,R,S,-,,,S,R,S,S
+282,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6000990,S,,,,R,I,,,,,,,,S
+283,Dog,GP,Enterococcus faecalis (1.1x107 CFU/ml),,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6000990,S,,,,R,I,,,,,,,,S
+284,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,6000992,R,,,,*R,I,,,,,,,,S
+285,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,R,R,,6001012,R,,-,S,S,R,S,-,,,R,R,S,S
+286,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6001064,S,S,,,S,S,,,I,S,,,,S
+287,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,I,,,,S,,,,R,,I,,R,S,,,,R,R,,6001186,R,,-,S,S,S,S,-,,,S,R,S,S
+288,Dog,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,6001233,,,,,,,,,,,,,,
+289,Dog,GP,Staphylococcus haemolyticus,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6001274,R,,-,S,S,R,S,-,,,,S,S,S
+290,Dog,GP,Enterococcus casseliflavus,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,R,,6001277,S,,,,R,I,,,,,,,,*R
+291,Dog,GP,Staphylococcus cohnii ssp urealyticus,,,*R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,S,,6001301,*R,,+,*R,S,S,I,-,,,,R,S,S
+292,Cat,GP,Kocuria kristinae (เลือก coagulase negative staphylococcus),,,,,,,,,,,,,,,,,,,,,,,,,,6001306,,,-,,,,,,,,,,,
+293,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6001370,R,,-,S,R,R,S,-,,,R,R,S,S
+294,Dog,GP,Enterococcus faecium,,,S,,R,,,,,S,,,,S,,,,S,S,,,,*R,S,,6001479,S,,,,R,S,,,,,,,,S
+295,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,6001511,R,,-,S,R,I,S,-,,,S,R,S,S
+296,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6001555,R,,-,S,R,R,S,-,,,S,R,S,S
+297,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6001555,*R,,-,S,S,S,S,-,,,,R,S,S
+298,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6001575,R,,-,S,S,R,S,-,,,S,R,S,S
+299,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,S,R,,6001595,R,,-,S,R,R,S,-,,,S,R,S,S
+300,Cat,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,6001626,R,,,,R,I,,,,,,,,S
+301,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6001699,S,S,,,S,S,,,S,S,,,,S
+302,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6001762,R,,-,S,S,R,S,-,,,S,R,S,S
+303,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,R,,6001792,S,,,,R,S,,,,,,,,S
+304,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,S,,,,S,S,,,,S,S,,6001948,S,,,,R,S,,,,,,,,S
+305,Dog,GP,Streptococcus canis (เลือก Streptococcus agalactiae),,,S,,S,,,,,,,,,,,,,,,,,,,,,6002001,,,,S,,,,,,,,,,
+306,Dog,GP,Staphylococcus auricularis,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6002070,,,-,S,S,I,S,+,,,,R,S,S
+307,Cat,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,6002149,,,,,,,,,,,,,,
+308,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,I,,S,S,,,,S,R,,6002153,R,,-,S,R,R,S,-,,,S,R,S,S
+309,Dog,GP,Staphylococcus schleiferi,,,*R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6002229,*R,,*+,*R,S,R,S,-,,,S,R,S,S
+310,Dog,GP,Coagulase-negative staphylococci,,,R,,R,R,,,,S,,,,I,,S,,S,S,,,,S,S,,6002266,R,,+,R,S,S,S,-,,,,R,S,S
+311,Exotic,GP,Staphylococcus xylosus,,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,6002269,R,,-,S,S,S,S,-,,,S,R,S,S
+312,Cat,GP,Streptococcus constellatus ssp pharynges,,,S,,S,,,,,,,,,,,,,,,,,,,,,6002418,,,,S,,,,,,,,,,
+313,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,S,,6002453,S,,,,R,I,,,,,,,,S
+314,Cat,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6002453,*R,,-,S,S,S,S,-,,,,S,S,S
+315,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6002552,S,,-,S,R,R,S,-,,,S,S,S,S
+316,Cat,GP,Streptococcus constellatus ssp constellatus,,S,,,,,,S,,,,,,,,,,,,,,,,R,,6002552,S,S,,,R,R,,,S,S,,,,S
+317,Cat,GP,Staphylococcus schleiferi,,,*R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6002552,*R,,-,*R,S,R,S,-,,,,R,S,S
+318,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6002560,*R,,-,S,S,S,S,-,,,,S,S,S
+319,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6002692,R,,-,S,S,S,S,-,,,S,S,S,S
+320,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,R,R,,6002711,R,,-,S,S,S,S,-,,,S,S,S,S
+321,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,I,,S,S,,,,S,R,,6002851,R,,-,S,S,R,S,-,,,S,S,S,S
+322,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,6002872,R,,,,R,R,,,,,,,,S
+323,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6002902,R,,-,S,S,R,S,-,,,S,R,S,S
+324,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,R,,R,S,,,,R,R,,6002945,R,,-,S,S,S,S,-,,,S,R,S,S
+325,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6002966,S,,,,R,R,,,,,,,,S
+326,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003218,S,,-,S,S,S,S,-,,,S,S,S,S
+327,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6003264,R,,-,,R,R,S,-,,,R,R,S,S
+328,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003282,R,,-,S,S,S,S,-,,,S,S,S,S
+329,Dog,GP,Unidentified gram-positive bacteria,,,,,,,,,,,,,,,,,,,,,,,,,,6003362,,,,,,,,,,,,,,
+330,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6003402,R,,-,S,R,R,S,-,,,S,R,S,S
+331,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6003410,R,,-,S,S,S,S,-,,,,S,S,S
+332,Cat,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,6003415,,,,,,,,,,,,,,
+333,Dog,GP,Staphylococcus cohnii ssp cohnii,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003575,*R,,-,S,R,I,I,-,,,S,R,S,S
+334,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,R,,S,S,,,,R,R,,6003575,R,,-,S,S,R,S,-,,,S,R,S,S
+335,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,S,,R,,S,S,,,,R,R,,6003575,R,,-,S,S,R,S,-,,,S,R,S,S
+336,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003586,S,,-,S,S,S,S,-,,,S,S,S,S
+337,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003586,S,,-,S,S,S,S,-,,,S,S,S,S
+338,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003677,S,,-,S,S,S,S,-,,,S,S,S,S
+339,Dog,GP,Staphylococcus auricularis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6003682,R,,-,S,S,S,S,-,,,,S,S,S
+340,Dog,GP,Staphylococcus pseudinternedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6003910,R,,-,S,S,R,S,-,,,S,S,S,S
+341,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,S,R,,6004166,R,,-,S,S,R,S,-,,,S,S,S,S
+342,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,S,,R,,S,S,,,,R,R,,6004174,R,,-,S,S,R,S,+,,,S,R,S,S
+343,Cat,GP,Coagulase-negative Staphylococcus sp.,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6004214,S,,-,S,S,S,S,-,,,,S,S,S
+344,Dog,GP,Staphylococcus hominis,,,*R,,R,*R,,,,S,,,,S,,S,,S,S,,,,R,S,,6004335,*R,,+,*R,R,S,S,-,,,,R,S,S
+345,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,6004381,S,,,,R,R,,,,,,,,S
+346,Dog,GP,Staphylococcus chromogenes (coagulase negative Staphylococcus),,,*R,,R,R,,,,S,,,,R,,I,,R,S,,,,S,R,,6004464,*R,,*+,*R,*R,R,S,+,,,,R,S,S
+347,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6004495,S,,-,S,S,S,S,-,,,S,S,S,S
+348,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6004512,R,,-,S,S,S,S,-,,,,S,S,S
+349,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6004533,R,,-,S,S,S,S,-,,,,S,S,S
+350,Dog,GP,Staphylococcus hominis ssp hominis,,,R,,R,R,,,,S,,,,I,,S,,S,S,,,,S,S,,6004575,R,,+,R,*R,R,S,+,,,,R,S,S
+351,Dog,GP,Staphylococcus lugdunensis (coagulase negative Staphylococcus),,,*R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,6004643,*R,,+,*R,S,S,S,-,,,,R,S,S
+352,Dog,GP,Staphylococcus pseudintermedius (3.17x105 CFU/ml),,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,S,R,,6004797,R,,-,S,R,R,S,-,,,S,R,S,S
+353,Cat,GP,Staphylococcus aureus,,,*R,,I,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6004829,*R,,+,*R,R,S,S,-,,,S,R,S,S
+354,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6004947,R,,-,S,S,S,S,-,,,S,S,S,S
+355,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,6005112,R,,-,S,S,S,S,-,,,,R,S,S
+356,Dog,GP,Streptococcus constellatus ssp pharyngis,,,,,,,,,,,,,,,,,,,,,,,,,,6005114,,,,,,,,,,,,,,
+357,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6005117,R,,-,S,S,S,S,-,,,S,R,S,S
+358,Dog,GP,Staphylococcus aureus,,,*R,,R,*R,,,,S,,,,R,,I,,R,S,,,,R,R,,6005149,*R,,+,*R,R,S,S,-,,,S,R,S,S
+359,Cat,GP,Leuconostoc mesenteroides ssp cremoris,,,,,,,,,,,,,,,,,,,,,,,,,,6005229,,,,,,,,,,,,,,
+360,Cat,GP,Enterococcus faecium (1.4 x 105 CFU/ml),,,R,,R,,,,,R,,,,R,,,,R,I,,,,R,R,,6005285,R,,,,*R,I,,,,,,,,S
+361,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6005355,*R,,-,S,R,R,S,-,,,R,R,S,S
+362,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6005430,S,,-,S,S,S,S,-,,,S,S,S,S
+363,Dog,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,6005446,,,,,,,,,,,,,,
+364,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6005548,R,,-,S,S,S,S,-,,,S,S,S,S
+365,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,6005645,R,,-,S,S,S,S,-,,,S,S,S,S
+366,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,6005645,R,,-,S,S,S,S,-,,,S,S,S,S
+367,Cat,GP,Streptococcus dysgalactiae ssp dysgalactiae,,,,,,,,,,,,,,,,,,,,,,,,,,6005701,,,,,,,,,,,,,,
+368,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,6005786,,,,,,,,,,,,R,,
+369,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,R,R,,6006051,R,,-,S,S,S,S,-,,,S,R,S,S
+370,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,6006060,,,,,,,,,,,,,,
+371,Cat,GP,Staphylococcus epidermidis กับ Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6006066,R,,-,S,R,S,S,-,,,S,S,S,S
+372,Cat,GP,Erysipelothrix rhusiopathiae,,,,,,,,,,,,,,,,,,,,,,,,,,6006181,,,,,,,,,,,,,,
+373,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,6006435,*R,,-,S,S,R,S,-,,,S,R,S,S
+374,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,6006524,R,,-,S,S,S,S,-,,,S,S,S,S
+375,Dog,GP,Enterococcus casseliflavus / Enterococcus gallinarum,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,S,,6006724,S,,,,R,S,,,,,,,,*R
+376,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6006767,R,,+,R,R,R,S,-,,,I,R,S,S
+377,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6006767,R,,-,S,S,S,S,-,,,S,R,S,S
+378,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6006767,R,,+,R,R,R,S,-,,,S,R,S,S
+379,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,S,S,,,,*R,R,,6006841,S,,,,*R,I,,,,,,,,S
+380,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6006913,R,,-,S,R,R,S,-,,,S,R,S,S
+381,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,6006913,*R,,-,S,S,R,S,-,,,,R,S,S
+382,Dog,GP,Unidentified gram-positive cocci (1.4x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,6007003,,,,,,,,,,,,,,
+383,Dog,GP,Gram positive cocci bacteria (2x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,6007003,,,,,,,,,,,,,,
+384,Dog,GP,Streptococcus canis,,,,,,,,,,,,,,,,,,,,,,,,,,6007034,,,,,,,,,,,,,,
+385,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6007045,R,,-,S,S,S,S,-,,,S,S,S,S
+386,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,6007241,R,,-,S,R,R,S,-,,,S,R,S,S
+387,Dog,GP,Staphylococcus pseudintermedius (1.8x105 CFU/ml),,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6007300,R,,-,S,S,R,S,-,,,S,S,S,S
+388,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,6007346,R,,-,S,S,R,S,-,,,R,R,S,S
+389,Dog,GP,Staphylococcus saprophyticus,,,S,,R,R,,,,S,,,,S,,S,,S,S,,,,R,S,,6007346,R,,-,S,R,R,R,+,,,S,R,S,S
+390,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,6007346,,,,,,,,,,,,S,,
+391,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6007375,S,,-,S,S,S,S,-,,,,S,S,S
+392,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,6007461,R,,-,S,S,S,S,-,,,S,S,S,S
+393,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6007534,S,,-,S,S,S,S,-,,,S,S,S,S
+394,Dog,GP,Low discrimination,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,R,,6007567,*R,,-,S,R,R,S,-,,,S,S,S,S
+395,Cat,GP,Pasteurella canis,,,,,,,,,,,,,,,,,,,,,,,,,,6007758,,,,,,,,,,,,,,
+396,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6007856,S,,-,S,S,S,S,-,,,S,S,S,S
+397,Cat,GP,Streptococcus canis (เลือก Streptococcus agalactiae),,,S,,S,,,,,S,,,,S,,,,S,S,,,,S,S,,6007972,S,,,S,,,,,,,,,,S
+398,Cat,GP,Staphylococcus caprae,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6008007,S,,-,S,S,S,S,-,,,,S,S,S
+399,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6008054,R,,-,S,S,S,S,-,,,S,S,S,S
+400,Cat,GP,Streptococcus dysagalactiae ssp equisimilis,,,,,,,,,,,,,,,,,,,,,,,,,,6008167,,,,,,,,,,,,,,
+401,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,6008198,*R,,-,S,S,S,S,-,,,,R,S,S
+402,Dog,GP,Staphylococcus aureus,,,*R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6008236,*R,,+,*R,R,S,S,-,,,S,R,S,S
+403,Dog,GP,Staphylococcus pseudintermedius (2.83x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6008257,R,,-,S,S,S,S,-,,,S,S,S,S
+404,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6008359,R,,-,S,S,S,S,-,,,S,S,S,S
+405,Cat,GP,Staphylococcus cohnii ssp cohnii,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6008412,S,,-,S,S,S,S,-,,,S,S,S,S
+406,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,S,,I,,S,S,,,,S,R,,6008494,R,,-,S,S,S,S,-,,,S,R,S,S
+407,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6008494,R,,-,S,S,S,S,-,,,S,S,S,S
+408,cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6008496,R,,-,S,S,S,S,-,,,,S,S,S
+409,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6008518,R,,+,R,R,R,S,-,,,S,R,S,S
+410,Dog,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,6008561,,,,,,,,,,,,,,
+411,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,S,R,,6008569,R,,-,S,S,R,S,-,,,S,R,S,S
+412,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,6008569,R,,-,S,S,R,S,-,,,S,R,S,S
+413,Dog,GP,Streptococcus suis,,S,,,,,,S,,,,,,,,,,,,,,,,R,,6008571,I,S,,,R,R,,,R,S,,,,S
+414,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6008579,R,,-,S,R,R,S,-,,,,R,S,S
+415,Cat,GP,Unidentified Gram positive cocci (> 1x105 cfu/mL),,,,,,,,,,,,,,,,,,,,,,,,,,6008662,,,,,,,,,,,,,,
+416,Cat,GP,Unidentified gram positive cocci,,,,,,,,,,,,,,,,,,,,,,,,,,6008862,,,,,,,,,,,,,,
+417,Cat,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6008864,,,,,,,,,,,,,,
+418,Dog,GP,Streptococcus dysgalactiae,,,,,,,,S,,,,,,,,,,,,,,,S,R,,6008895,,S,,,,S,,,R,S,,,,S
+419,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,R,S,,6008907,S,,,,R,I,,,,,,,,S
+420,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6008917,R,,+,S,R,R,S,-,,,S,R,S,S
+421,Cat,GP,Enterococcus durans,,,S,,S,,,,,S,,,,S,,,,S,I,,,,S,R,,6008948,S,,,,R,S,,,,,,,,S
+422,Cat,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6008948,,,,,,,,,,,,,,
+423,Dog,GP,Staphylococcus caprae,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6008990,S,,-,S,S,S,S,-,,,,S,S,S
+424,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,6009025,S,S,,,S,S,,,S,S,,,,S
+425,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6009099,R,,+,S,S,S,S,-,,,S,R,S,S
+426,Dog,GP,Staphylococcus hyicus,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6009183,*R,,-,S,S,S,S,-,,,S,R,S,S
+427,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6009341,R,,+,R,R,R,S,-,,,S,R,S,S
+428,Dog,GP,Staphylococcus cohnii ssp urealyticus,,,*R,,R,R,,,,I,,,,S,,S,,S,S,,,,R,R,,6009341,*R,,+,*R,R,R,*R,-,,,,R,S,S
+429,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6009350,R,,-,S,S,S,S,-,,,,S,S,S
+430,Dog,GP,Staphylococcus warneri,,,*R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,R,,6009379,*R,,+,*R,R,I,R,-,,,,R,S,S
+431,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6009535,R,,-,S,S,S,S,-,,,,S,S,S
+432,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6009601,R,,-,S,S,S,S,-,,,S,S,S,S
+433,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6009609,R,,-,S,S,S,S,-,,,S,S,S,S
+434,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6009612,S,,-,S,S,S,S,-,,,,S,S,S
+435,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6009683,R,,-,S,S,S,S,-,,,S,S,S,S
+436,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6009743,R,,+,S,R,R,S,-,,,S,R,S,S
+437,Dog,GP,Enterococcus columbae,,,S,,S,,,,,S,,,,S,,,,S,S,,,,*R,S,,6009801,S,,,,R,S,,,,,,,,S
+438,Dog,GP,Staphylococcus chromogenes,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,6009826,*R,,*+,*R,R,R,S,-,,,,R,S,S
+439,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,S,,R,,S,S,,,,R,R,,6009827,R,,-,S,S,R,S,-,,,S,R,S,S
+440,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6009870,*R,,-,S,S,S,S,-,,,S,R,S,S
+441,Cat,GP,Staphylococcus chromogenes /Staphylococcus xylosus (3x103 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6009978,S,,S,S,S,S,S,S,,,S,S,S,S
+442,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,6010009,R,,-,S,S,S,S,-,,,S,S,S,S
+443,Dog,GP,Staphylococcus schleiferi or Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010160,S,,-,S,S,S,S,-,,,S,S,S,S
+444,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010160,S,,-,S,S,S,S,-,,,S,S,S,S
+445,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,S,,,,S,S,,,,S,R,,6010160,S,,,,R,R,,,,,,,,S
+446,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010168,S,,-,S,S,S,S,-,,,S,S,S,S
+447,Dog,GP,Streptococcus ovis / Streptococcus parasanguinis / Streptococcus sanguinis,,S,,,,,,S,,,,,,,,,,,,,,,,S,,6010258,S,S,,,S,,,,S,S,,,,S
+448,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6010258,R,,-,S,S,S,S,-,,,S,R,S,S
+449,Dog,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6010321,,,,,,,,,,,,,,
+450,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6010333,R,,-,S,R,R,S,-,,,S,S,S,S
+451,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6010333,R,,-,S,S,R,S,-,,,S,S,S,S
+452,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010346,S,,-,S,S,S,S,-,,,S,S,S,S
+453,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6010346,R,,-,S,S,S,S,-,,,S,R,S,S
+454,Dog,GP,Enterococcus casseliflavus/ gallinarum,,,S,,R,,,,,S,,,,S,,,,S,S,,,,*R,S,,6010399,S,,,,R,I,,,,,,,,S
+455,Cat,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010463,S,,-,S,S,S,S,-,,,S,S,S,S
+456,Cat,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6010561,,,,,,,,,,,,,,
+457,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,6010566,S,S,,,S,S,,,S,S,,,,S
+458,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,S,R,,6010589,R,,-,S,S,S,S,-,,,S,S,S,S
+459,Cat,GP,Staphylococcus caprae or chromogenes) (1.7x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6010608,S,,-,S,*R,R,S,+,,,S,S,S,S
+460,Dog,GP,Streptococcus suis,,S,,,,,,S,,,,,,,,,,,,,,,,R,,6010692,S,S,,,S,S,,,S,S,,,,S
+461,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010735,S,,-,S,S,S,S,-,,,S,S,S,S
+462,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6010777,R,,-,S,S,S,S,-,,,S,R,S,S
+463,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6010783,R,,-,S,R,S,S,-,,,S,S,S,S
+464,Dog,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6010789,,,,,,,,,,,,,,
+465,Dog,GP,Enterococcus faecium,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6010794,S,,,,R,R,,,,,,,,S
+466,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6010814,R,,-,S,R,R,S,-,,,S,R,S,S
+467,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,6010814,R,,-,S,R,R,S,-,,,S,R,S,S
+468,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6010866,S,,-,S,S,S,S,-,,,S,S,S,S
+469,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,R,,S,S,,,,S,R,,6010913,R,,-,S,R,R,S,-,,,S,R,S,S
+470,Dog,GP,Staphylococcus epidermidis (4.8x104 CFU/ml),,,S,,R,R,,,,S,,,,I,,I,,R,S,,,,S,R,,6011010,R,,+,R,R,S,S,-,,,S,R,S,S
+471,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6011037,R,,-,S,S,S,S,-,,,S,S,S,S
+472,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6011063,R,,-,S,R,R,S,-,,,,S,S,S
+473,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6011108,R,,+,S,R,R,S,-,,,S,R,S,S
+474,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6011108,R,,-,S,R,R,S,-,,,S,R,S,S
+475,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6011108,R,,+,S,R,R,S,-,,,S,R,S,S
+476,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6011108,R,,+,S,R,R,S,-,,,S,R,S,S
+477,Dog,GP,Streptococcus constellatus,,S,,,,,,S,,,,,,,,,,,,,,,,R,,6011116,S,S,,,S,S,,,S,S,,,,S
+478,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,R,R,,6011166,R,,-,S,S,R,S,-,,,S,R,S,S
+479,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6011280,R,,-,S,S,S,S,-,,,S,S,S,S
+480,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,6011323,R,,+,R,R,R,S,-,,,S,R,S,S
+481,Cat,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6011373,,,,,,,,,,,,,,
+482,Cat,GP,Staphylococcus simulans,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6011403,S,,-,S,S,S,S,-,,,S,S,S,S
+483,Dog,GP,Staphylococcus hyicus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6011454,S,,-,S,S,S,S,-,,,S,S,S,S
+484,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6011473,S,,-,S,R,S,S,-,,,S,S,S,S
+485,Dog,GP,Staphylococcus aureus,,,R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6011475,R,,+,R,R,S,S,-,,,R,R,S,S
+486,Dog,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6011475,R,,-,S,R,R,R,-,,,S,S,S,S
+487,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,S,,6011475,S,,,,R,I,,,,,,,,S
+488,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,6011542,R,,-,S,S,R,S,-,,,R,R,S,S
+489,Dog,GP,Granulicatella elegans,,,,,,,,,,,,,,,,,,,,,,,,,,6011602,,,,,,,,,,,,,,
+490,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6011604,S,S,,,R,R,,,S,S,,,,S
+491,Dog,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6011618,R,,-,S,S,S,S,-,,,S,S,S,S
+492,Dog,GP,Enterococcus faecalis (>105 cfu/mL),,,S,,R,,,,,S,,,,S,,,,I,S,,,,R,S,,6011627,S,,,,R,I,,,,,,,,S
+493,Dog,GP,Streptococcus dysgalactiae ssp equisimilis (2.0x105 CFU/ml),,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6011632,S,S,,,S,S,,,S,S,,,,S
+494,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6011632,S,S,,,S,S,,,S,S,,,,S
+495,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6011643,R,,-,S,S,S,S,-,,,S,S,S,S
+496,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6011718,R,,+,R,R,R,S,-,,,R,R,S,S
+497,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6011736,R,,-,S,S,R,S,+,,,S,S,S,S
+498,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,S,,6011736,R,,-,S,S,R,S,-,,,S,R,S,S
+499,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6011762,S,,-,S,S,S,S,-,,,S,S,S,S
+500,Dog,GP,Staphylococcus haemolyticus,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6011766,R,,-,S,R,R,S,-,,,R,R,S,S
+501,Dog,GP,Corynebacterium spp.,,,,,,,,,,,,,,,,,,,,,,,,,,6011852,,,,,,,,,,,,,,
+502,Dog,GP,Unidentified gram-positive bacteria,,,,,,,,,,,,,,,,,,,,,,,,,,6011884,,,,,,,,,,,,,,
+503,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,6011975,R,,-,S,R,R,S,+,,,S,S,S,S
+504,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6012008,R,,-,S,R,R,S,-,,,S,R,S,S
+505,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6012036,R,,-,S,S,R,S,+,,,S,S,S,S
+506,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,6012060,R,,-,S,S,S,S,-,,,S,S,S,S
+507,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012229,S,,-,S,S,S,S,-,,,S,S,S,S
+508,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,6012273,S,,,,R,I,,,,,,,,S
+509,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012301,S,,-,S,S,S,S,-,,,S,S,S,S
+510,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,I,,,,S,,,,R,,R,,R,S,,,,R,R,,6012326,R,,-,S,R,R,S,-,,,S,R,S,S
+511,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012365,S,,-,S,*R,R,S,+,,,S,S,S,S
+512,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012376,S,,-,S,S,S,S,-,,,S,S,S,S
+513,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,6012385,S,,,,R,R,,,,,,,,S
+514,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6012387,S,,-,S,S,S,S,-,,,S,S,S,S
+515,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012390,S,,-,S,S,S,S,-,,,S,S,S,S
+516,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6012575,R,,-,S,S,S,S,-,,,S,S,S,S
+517,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6012600,R,,+,R,S,R,S,-,,,S,R,S,S
+518,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6012631,S,,-,S,S,S,S,-,,,S,S,S,S
+519,Dog,GP,Staphylococcus pseudintermedius,,,S,,I,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6012666,R,,+,S,S,R,S,-,,,S,R,S,S
+520,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6012666,R,,-,S,R,R,S,-,,,R,R,S,S
+521,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,6012666,R,,-,S,S,R,S,-,,,S,R,S,S
+522,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,6012738,S,,-,S,S,S,S,-,,,S,S,S,S
+523,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,6012774,R,,+,R,R,R,S,-,,,R,R,S,S
+524,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,R,,,,*R,R,,6012825,S,,,,R,R,,,,,,,,S
+525,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,6012855,S,,,,R,I,,,,,,,,S
+526,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,6012855,S,,,,R,I,,,,,,,,S
+527,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,6012864,R,,-,S,S,R,S,-,,,S,S,S,S
+528,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,6012894,R,,-,S,R,R,S,-,,,S,S,S,S
+529,Dog,GP,Streptococcus thoraltensis,,,,,,,,,,,,,,,,,,,,,,,R,S,,6013106,,,,,S,S,,-,I,S,,,,
+530,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6013191,S,,-,S,S,S,S,-,,,S,S,S,S
+531,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6013254,R,,-,S,S,S,S,-,,,S,S,S,S
+532,Cat,GP,Staphylococcus aureus,,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,6013320,R,,-,S,S,S,S,-,,,S,S,S,S
+533,Dog,GP,Methicillin-susceptible Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6013374,S,,-,S,S,S,S,-,,,S,S,S,S
+534,Dog,GP,Enterococcus avium,,,I,,R,,,,,S,,,,I,,,,I,S,,,,S,S,,6013442,R,,,,R,S,,,,,,,,S
+535,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6013501,R,,-,S,S,S,S,-,,,S,S,S,S
+536,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,R,R,,6013527,S,,,,R,I,,,,,,,,S
+537,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,S,R,,6013614,R,,-,S,S,R,S,-,,,S,S,S,S
+538,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,6013649,S,,,,R,I,,,,,,,,S
+539,Cat,GP,Staphylococcus chromogenes (2.4x107 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6013655,R,,-,S,S,S,S,-,,,S,S,S,S
+540,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6013662,R,,-,S,S,R,S,-,,,S,S,S,S
+541,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6013742,R,,-,S,R,R,S,-,,,S,S,S,S
+542,Cat,GP,Staphylococcus lugdunensis,,,S,,S,S,,,,I,,,,R,,S,,R,S,,,,R,S,,6013779,R,,-,S,R,R,S,-,,,S,S,S,S
+543,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,S,,6013835,S,,,,R,I,,,,,,,,S
+544,Dog,GP,Staphylococcus kloosii,,,S,,S,S,,,,S,,,,S,,S,,R,S,,,,S,S,,6014597,R,,-,S,S,I,*R,-,,,S,S,S,S
+545,Dog,GP,Kocuria varians,,,,,,,,,,,,,,,,,,,,,,,,,,6013978,,,,,,,,,,,,,,
+546,Cat,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,6013985,,,,,,,,,,,,,,
+547,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,6014052,S,S,,,S,S,,,S,S,,,,S
+548,Cat,GP,Staphylococcus chromogenes (1.83x107 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014058,S,,-,S,S,S,S,-,,,S,S,S,S
+549,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,R,,6014106,S,,,,R,R,,,,,,,,S
+550,Dog,GP,Staphylococcus pseudintermedius (1 x 105 cfu/mL),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014201,R,,-,S,S,S,S,-,,,S,S,S,S
+551,Dog,GP,Staphylococcus pseudintermedius (1.25 x 107 CFU/ml),,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,S,R,,6014236,*R,,-,S,R,R,S,-,,,S,R,S,S
+552,Dog,GP,Streptococcus canis (>1x105 cfu/mL),,S,,,,,,,,,,,,,,,,,,,,,S,R,,6014281,S,S,,,S,S,,,I,S,,,,S
+553,Cat,GP,Kocuria rosea (1.0x103 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,6014341,,,,,,,,,,,,,,
+554,Cat,GP,Staphylococcus caprae,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014344,R,,-,S,R,S,S,-,,,S,S,S,S
+555,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,6014379,R,,-,S,S,S,S,-,,,S,R,S,S
+556,Dog,GP,Enterococcus durans หรือ Enterococcus faecium,,,S,,R,,,,,,,,,,,,,I,,,,,,,,6014429,,,,,,,,,,,,,,
+557,Dog,GP,Staphylococcus haemolyticus,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,S,R,,6014432,R,,+,S,R,R,I,-,,,S,R,S,S
+558,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014470,S,,-,S,S,S,S,-,,,S,S,S,S
+559,Dog,GP,Staphylococcus pseudintermedius (> 1x105 cfu/mL),,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,6014511,R,,-,R,R,R,S,-,,,S,R,S,S
+560,Dog,GP,Staphylococcus haemolyticus,,,S,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,6014597,R,,+,S,R,S,S,-,,,S,R,S,S
+561,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,6014597,R,,-,S,R,R,S,-,,,S,S,S,S
+562,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014650,S,,-,S,S,S,S,-,,,S,S,S,S
+563,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6014844,S,,,,R,I,,,,,,,,S
+564,Cat,GP,Staphylococcus aureus (5.4x106 CFU/ml),,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,S,R,,6014844,*R,,-,S,R,R,S,-,,,S,S,S,S
+565,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6014863,S,,-,S,S,S,S,-,,,S,S,S,S
+566,Cat,GP,Staphylococcus saprophyticus (1.5 x 105 CFU/ml),,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,S,,6014913,R,,+,R,R,R,R,-,,,S,R,S,S
+567,Cat,GP,Streptococcus gallolyticus ssp gallolyticus หรือ Streptococcus mutans,,S,,,,,,S,,,,,,,,,,,,,,,,S,,6014919,S,S,,,R,R,,,S,S,,,,S
+568,Dog,GP,Enterococcus faecium (2.9x105 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,R,,,,*R,R,,6014964,R,,,,R,R,,,,,,,,S
+569,Dog,GP,Streptococcus parasanguinis,,S,,,,,,S,,,,,,,,,,,,,,,,S,,6015030,S,S,,,R,R,,,S,S,,,,S
+570,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6015037,S,,-,S,S,S,S,-,,,S,S,S,S
+571,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,I,,,,R,R,,6015100,R,,,,R,I,,-,,,,,,S
+572,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,6015195,S,,,,R,R,,,,,,,,S
+573,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,6015233,S,,,,R,R,,,,,,,,S
+574,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6015246,R,,-,S,S,R,S,+,,,S,R,S,S
+575,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,6015312,S,,,,R,R,,,,,,,,S
+576,Cat,GP,Streptococcus anginosus,,S,,,,,,S,,,,,,,,,,,,,,,,S,,6015348,S,S,,,S,S,,,S,S,,,,S
+577,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,6015396,R,,+,S,S,S,S,-,,,S,S,S,S
+578,Cat,GP,Staphylococcus chormogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6015494,S,,-,S,S,S,S,-,,,S,S,S,S
+579,Dog,GP,Staphylococcus pseudintermedius (2.0x103 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6015611,S,,-,S,S,S,S,-,,,S,S,S,S
+580,Cat,GP,Staphylococcus warneri or Staphylococcus lugdunensis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6015643,S,,-,S,S,S,S,-,,,S,S,S,S
+581,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,6015683,R,,-,S,S,R,S,-,,,S,R,S,S
+582,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6015736,R,,-,S,R,R,S,-,,,S,R,S,S
+583,Cat,GP,Staphylococcus warneri or Staphylococcus hominis ssp hominis),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6015787,S,,-,S,S,S,S,-,,,S,S,S,S
+584,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6015789,R,,-,S,R,S,S,-,,,S,S,S,S
+585,Dog,GP,Staphylococcus schleiferi,,,S,,R,S,,,,S,,,,R,,R,,R,S,,,,S,R,,6015796,R,,-,S,R,R,S,-,,,S,R,S,S
+586,Dog,GP,Staphylococcus cohnii ssp urealyticus,,,*R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,6015872,*R,,+,*R,R,R,*R,-,,,S,R,S,S
+587,Cat,GP,Streptococcus sanguinis or Streptococcus thoraltensis,,S,,,,,,S,,,,,,,,,,,,,,,,R,,6015892,S,S,,,S,R,,,I,S,,,,S
+588,Dog,GP,Streptococcus canis (1.4x107 CFU/ml),,S,,,,,,S,,,,,,,,,,,,,,,S,S,,6016040,S,S,,,S,S,,,S,S,,,,S
+589,Cat,GP,Streptococcus agalactiae or Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6016064,S,S,,,*R,R,,+,S,S,,,,S
+590,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,6016258,R,,-,S,R,R,S,-,,,S,S,S,S
+591,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6016308,*R,,*+,R,R,R,S,-,,,R,R,S,S
+592,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,6016365,,,,,,,,,,,,,,
+593,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6016538,S,,-,S,S,S,S,-,,,S,S,S,S
+594,Dog,GP,Micrococcus luteus/lylae,,,S,,S,S,,,,R,,,,R,,S,,I,R,,,,S,S,,6016543,S,,-,S,,R,S,-,,,R,R,S,S
+595,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,6016661,R,,-,S,R,R,S,-,,,R,S,S,S
+596,Dog,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6016697,*R,,-,S,S,S,*R,-,,,S,S,S,S
+597,Cat,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6016760,*R,,-,S,S,S,S,-,,,S,S,S,S
+598,Dog,GP,Staphylococcus chromoenes,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,S,,6016798,S,,-,S,S,S,S,-,,,S,S,S,S
+599,Dog,GP,Staphylococcus lentus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6016926,S,,-,S,S,S,S,-,,,S,,S,S
+600,Dog,GP,Streptococcus infantarius ssp coli (Str.lutetiensis),,S,,,,,,S,,,,,,,,,,,,,,,,R,,6016932,S,S,,,S,S,,,I,S,,,,S
+601,Cat,GP,Staphylococcus epidermidis,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,6016963,R,,+,R,S,S,S,-,,,S,R,S,S
+602,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,6017039,R,,-,S,S,S,S,-,,,S,S,S,S
+603,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6017074,R,,-,S,S,S,S,-,,,S,S,S,S
+604,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,S,R,,6017140,R,,-,S,S,R,S,+,,,S,S,S,S
+605,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6017274,R,,-,S,S,S,S,-,,,S,R,S,S
+606,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,R,,6017295,S,,,,R,I,,,,,,,,S
+607,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6017361,R,,-,S,S,S,S,-,,,S,S,S,S
+608,Dog,GP,Staphylococcus epidermidis,,,*R,,S,*R,,,,S,,,,S,,S,,S,S,,,,S,R,,6017367,*R,,+,*R,R,R,*R,-,,,R,R,S,S
+609,Cat,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,R,R,,6017379,R,,,,R,R,,,,,,,,S
+610,Cat,GP,Staphylococcus simulans,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6017443,S,,S,S,S,S,S,-,,,S,S,S,S
+611,Dog,GP,Streptococcus infantarius ssp coli (Str.lutetiensis),,S,,,,,,S,,,,,,,,,,,,,,,,R,,6017626,S,S,,,,S,,,S,S,,,,S
+612,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6017629,S,,-,S,S,S,S,-,,,S,S,S,S
+613,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6017764,S,,-,S,S,S,S,-,,,S,S,S,S
+614,Dog,GP,Staphylococcus aureus,,,*R,,R,*R,,,,S,,,,R,,R,,R,S,,,,S,R,,6017923,*R,,+,*R,R,S,S,-,,,R,R,S,S
+615,Dog,GP,Staphylococcus aureus,,,*R,,R,*R,,,,S,,,,R,,R,,R,S,,,,R,R,,6017923,*R,,+,*R,R,S,S,-,,,R,R,S,S
+616,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,6017960,*R,,-,S,S,S,S,-,,,S,R,S,S
+617,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6017965,S,,-,,S,S,S,-,,,S,S,S,S
+618,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,6018028,R,,-,S,R,R,S,-,,,S,R,S,S
+619,Dog,GP,Staphylococcus schleiferi,,,*R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,R,,6018073,*R,,*+,R,S,S,S,-,,,S,R,S,S
+620,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,6018180,R,,-,I,S,S,S,-,,,S,R,S,S
+621,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,6018185,S,,,,R,I,,,,,,,,S
+622,Dog,GP,Staphylococcus pseudintermedius (7.4x106 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,6018251,R,,-,S,S,S,S,-,,,S,S,S,S
+623,Cat,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,6018289,R,,+,S,R,R,S,-,,,S,R,S,S
+624,Cat,GP,Enterococcus faecalis (2.0x103 CFU/ml),,,S,,R,,,,,R,,,,R,,,,R,S,,,,*R,R,,6018378,S,,,,R,R,,,,,,,,S
+625,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6018534,R,,-,S,S,S,S,-,,,S,S,S,S
+626,Cat,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,S,R,,6018545,R,,-,S,S,S,S,-,,,S,R,S,S
+627,Cat,GP,Low discrimination (Staphylococcus xylosus/Staphylococcus simulans)(1.9x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6018744,S,,-,S,S,S,S,-,,,S,S,S,S
+628,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6018753,R,,-,S,S,S,S,-,,,S,S,S,S
+629,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,S,R,,6018806,S,,,,R,R,,,,,,,,S
+630,Dog,GP,Low discrimination,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,6018863,R,,-,S,S,S,S,-,,,S,S,S,S
+631,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6018915,S,,-,S,S,S,S,-,,,S,S,S,S
+632,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,6018928,R,,+,S,R,R,S,-,,,S,R,S,S
+633,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,6019017,S,S,,,S,S,,,S,S,,,,S
+634,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,6019026,R,,-,S,S,S,S,-,,,S,S,S,S
+635,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,-,R,,+,R,R,R,S,-,,,S,R,S,S
+636,Dog,GP,Granulicatella adiacens,,,,,,,,,,,,,,,,,,,,,,,,,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+19 July 2017
+Date of submission
+19 July 2017
+Owner
+ภาติยา วรรณทอง
+Patient
+อิชิ
+Species
+Dog
+Breed
+Labrador Retriever
+Sex
+Male
+Birth date
+Year 2007
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab จากหูขวา
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Granulicatella adiacens
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+TRM
+NA
+Benzyl penicillin
+TRM
+NA
+Amoxicillin/clavulanic
+TRM
+NA
+Oxacillin
+TRM
+NA
+Cephalothin
+TRM
+NA
+Cefpodoxime
+TRM
+NA
+Cefovecin
+TRM
+NA
+Gentamicin
+TRM
+NA
+Enrofloxacin
+TRM
+NA
+Marbofloxacin
+TRM
+NA
+Inducible clindamycin
+TRM
+NA
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+TRM
+NA
+Clindamycin
+TRM
+NA
+Vancomycin
+TRM
+NA
+Tetracycline
+TRM
+NA
+Nitrofurantoin
+TRM
+NA
+Fusidic acid
+TRM
+NA
+Mupirocin
+TRM
+NA
+Chloramphenicol
+TRM
+NA
+Rifampicin
+TRM
+NA
+Sulfamethoxazole/trimethoprim
+TRM
+NA
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Granulicatella adiacens
+--	Granulicatella adiacens เป็น gram-positive cocci ที่เป็นเชื้อประจำถิ่นที่ผิวหนังและเยื่อเมือกของสัตว์ ไม่มีบทบาทในการก่อโรค จึงมีโอกาสเป็นไปได้สูงที่เกิดการปนเปื้อมายังรอยโรคและการเก็บตัวอย่าง
+--	เนื่องจากเชื้อนี้เป็นเชื้อไม่ก่อโรค จึงไม่มีค่าวิกฤติมาตรฐานในการแปลผลความไวรับต่อยาต้านจุลชีพ
+--	แนะนำให้ทำความสะอาดช่องหูวันละ 1 ครั้ง ด้วยน้ำยาล้างหูที่มี antiseptics เป็นส่วนประกอบที่มีคุณสมบัติในการทำลายเชื้อและ biofilm ของเชื้อ หรือ Tris EDTA ทิ้งไว้ 20-30 นาที แล้วจึงหยอดยาหยอดหูที่มีส่วนประกอบของยาต้านจุลชีพ เช่น gentamicin หรือ marbofloxacin 
+--		ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่เป็น 1st-line empirical treatment ที่แนะนำ ได้แก่
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+--	ในกรณีที่ไม่ตอบสนองต่อการรักษา แนะนำให้ทำ cytologic examination ดูลักษณะเซลล์แบคทีเรีย และเก็บตัวอย่างส่งตรวจเพาะเชื้อซ้ำ
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 27 กรกฎาคม พ.ศ.2560",,,,,,,,,,,,,,
+637,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (Talung sv-31877-01)
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (Talung sv-31877-01)
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+4 Oct 2017
+Date of submission
+4 Oct 2017
+Owner
+Mr.Parin Pann
+Patient
+Talung
+Species
+Dog
+Breed
+Shih Tzu
+Sex
+Unk
+Birth date
+Year 2004
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab ขาหนีบข้างซ้าย
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+<=0.03
+S
+Amoxicillin/clavulanic
+<=2
+S
+Oxacillin
+<=0.25
+S
+Cephalothin
+<=2
+S
+Cefpodoxime
+<=0.5
+S
+Cefovecin
+<=0.5
+S
+Gentamicin
+<=0.5
+S
+Enrofloxacin
+<=0.5
+S
+Marbofloxacin
+<=0.5
+S
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+0.5
+S
+Clindamycin
+0.25
+S
+Vancomycin
+<=0.5
+S
+Tetracycline
+<=1
+S
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+8
+S
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-susceptible Staphylococcus pseudintermedius
+--	ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--		Cephalexin 25 mg/kg q12h PO for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--		Clindamycin 5.5-11 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+	--	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท 
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 9 ตุลาคม พ.ศ.2560",S,,-,S,S,S,S,-,,,S,S,S,S
+638,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม9 SR-111454-22
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม9 SR-111454-22
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+28 Aug 2017
+Date of submission
+30 Aug 2017
+Owner
+โสภิตนภางค์ ชวง
+Patient
+Unk 
+Species
+Dog
+Breed
+Thai
+Sex
+Unk
+Birth date
+Year 2016
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Exudate from SX wound
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+POS
++
+Benzyl penicillin
+>=0.5
+R
+Amoxicillin/clavulanic
+16
+R
+Oxacillin
+>=4
+R
+Cephalothin
+>=32
+R
+Cefpodoxime
+>=8
+R
+Cefovecin
+>=8
+R
+Gentamicin
+8
+I
+Enrofloxacin
+>=4
+R
+Marbofloxacin
+>=4
+R
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+>=4
+R
+Vancomycin
+<=0.5
+S
+Tetracycline
+>=16
+R
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+8
+S
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+>=320
+R
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius
+--	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin หรือ mupirocin 
+--	เชื้อเป็น multidrug resistance แสดงการดื้อยาต้านจุลชีพตามระบบที่มีการใช้ในทางสัตวแพทย์ทุกชนิดที่ทำการทดสอบ
+--		 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--		Vancomycin 15 mg/kg q6-8h IV infusion หรือ constant-rate infusion (CRI) โดยใช้ loading dose ในขนาด 3.5 mg/kg ตามด้วย CRI ในขนาด 1.5 mg/kg/h (ผสมยาในD5W) for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิทและให้ยาต่อไปอีก 1-2 สัปดาห์ **ควร monitor ไตและภาวะแห้งน้ำของสุนัข ปรับขนาดของยาหากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากยาอาจจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 1 กันยายน พ.ศ.2560",R,,+,R,R,R,S,-,,,S,R,S,S
+639,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,รพส.ทองหล่อ,R,,-,S,S,S,S,-,,,S,S,S,S
+640,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (ผศ.สพ.ญ.ดร.ชาลิกา หวังดี)
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 (ผศ.สพ.ญ.ดร.ชาลิกา หวังดี)
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+20 Aug 2017
+Date of submission
+21 Aug 2017
+Owner
+นิรดา จิระประเสริฐพันธ์
+Patient
+โชคดี (PY-78793-05)
+Species
+Dog
+Breed
+Rottweiler
+Sex
+Unk
+Birth date
+Year 2011
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab 
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+>=0.5
+R
+Amoxicillin/clavulanic
+8
+R
+Oxacillin
+>=4
+R
+Cephalothin
+8
+R
+Cefpodoxime
+>=8
+R
+Cefovecin
+>=8
+R
+Gentamicin
+>=16
+R
+Enrofloxacin
+>=4
+R
+Marbofloxacin
+>=4
+R
+Inducible clindamycin
+NEG
+-
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+>=4
+R
+Vancomycin
+<=0.5
+S
+Tetracycline
+>=16
+R
+Nitrofurantoin
+<=16
+S
+Fusidic acid
+<=0.5
+S
+Mupirocin
+<=1
+S
+Chloramphenicol
+>=64
+R
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius
+--		เชื้อเป็น MRSP ไม่แนะนำให้ใช้ยากลุ่ม beta-lactams ในการรักษาเนื่องจากให้ผลการรักษาที่ไม่แน่นอน
+--		หากเป็นบาดแผล/รอยโรคภายนอก แนะนำให้ล้างทำความสะอาดบาดแผล/รอยโรคด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น fusidic acid หรือ mupirocin 
+--		เนื่องจากสัตวแพทย์ไม่ได้ระบุตำแหน่งการเก็บตัวอย่าง ยาต้านจุลชีพที่แนะนำจึงอ้างอิงจากผลความไวรับเพียงอย่างเดียว อย่างไรก็ตามสัตวแพทย์ควรพิจารณาเรื่องการกระจายตัวของยาไปยังบริเวณที่เกิดการติดเชื้อ และความรุนแรงของการติดเชื้อ เพื่อประกอบการตัดสินใจเลือกใช้ยาและวิถีในการให้ยาด้วย ยาที่แนะนำได้แก่
+	--		Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 25 สิงหาคม พ.ศ.2560",R,,-,R,R,R,S,-,,,S,R,S,S
+641,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,I,,,,I,,S,,I,R,,,,S,S,,"รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		รพส.ทองหล่อ พระราม 9 
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+11 Nov 2017
+Date of submission
+13 Nov 2017
+Owner
+Miss Barhara Parmar
+Patient
+Unk
+Species
+Dog
+Breed
+Pomeranian
+Sex
+Unk
+Birth date
+Year 2011
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab ขี้หู
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420381403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Staphylococcus pseudintermedius
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+NEG
+-
+Benzyl penicillin
+0.06
+R
+Amoxicillin/clavulanic
+<=2
+S
+Oxacillin
+TRM
+NA
+Cephalothin
+<=2
+S
+Cefpodoxime
+1
+S
+Cefovecin
+<=0.5
+S
+Gentamicin
+<=0.5
+S
+Enrofloxacin
+2
+I
+Marbofloxacin
+2
+I
+Inducible clindamycin
+POS
++
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+>=8
+R
+Clindamycin
+0.5
+*R
+Vancomycin
+<=0.5
+S
+Tetracycline
+<=1
+S
+Nitrofurantoin
+256*
+R
+Fusidic acid
+<=0.5
+S
+Mupirocin
+>=512
+R
+Chloramphenicol
+16
+I
+Rifampicin
+<=0.5
+S
+Sulfamethoxazole/trimethoprim
+<=10
+S
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Methicillin-resistant Staphylococcus pseudintermedius 
+--		เนื่องจากผลความไวรับต่อ oxacillin ไม่สามารถอ่านค่าได้จากชุดทดสอบ จึงนำไปทำทดสอบหาคุณสมบัติ methicillin resistance ด้วย disk diffusion test
+--		ผลความไวรับเชื้อจาก disk diffusion test ของยา Oxacillin (R) บ่งชี้ว่าเป็น MRSP ไม่แนะนำให้ใช้ยาต้านจุลชีพกลุ่ม beta-lactams ในการรักษา เนื่องจากอาจให้ผลการรักษาที่ไม่แน่นอน
+--	แนะนำให้ทำความสะอาดช่องหูวันละ 1 ครั้ง ด้วยน้ำยาล้างหูที่มี antiseptics เป็นส่วนประกอบที่มีคุณสมบัติในการทำลายเชื้อและ biofilm ของเชื้อ หรือ Tris EDTA ทิ้งไว้ 20-30 นาที แล้วจึงหยอดยาหยอดหูที่มีส่วนประกอบของยาต้านจุลชีพ เช่น gentamicin หรือ marbofloxacin ถึงแม้จากค่า MIC เชื้อจะดื้อต่อยา 2 ชนิดนี้ แต่การใช้ยาภายนอก ความเข้มข้นของยาที่สัมผัสกับเชื้อจะสูงกว่าระดับยาในเลือดมาก จึงสามารถใช้กำจัดเชื้อได้
+--	ในกรณีที่มีการอักเสบติดเชื้อรุนแรง ติดเชื้อที่ช่องหูส่วนกลาง หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่แนะนำ ได้แก่
+	--	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+	--	Doxycycline 10 mg/kg q12h PO PC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 20 พฤศจิกายน พ.ศ.2560",R,,-,S,*R,R,S,+,,,R,,S,S
+642,Cat,GP,Kocuria rosea,,,,,,,,,,,,,,,,,,,,,,,,,,"รพส.ทองหล่อ พระราม 9
+		รายงานผลตรวจห้องปฏิบัติการจุลชีววิทยา
+		Results of Antimicrobial Susceptibility Testing (AST)
+		HN รพส.ทองหล่อ พระราม 9
+----media/image1.png----
+1)	ข้อมูลการส่ง และประวัติของตัวอย่าง	
+Date of sample collection
+20 July 2017
+Date of submission
+21 July 2017
+Owner
+สมถวิล รอดเงิน
+Patient
+ส้มเช้ง
+Species
+Cat
+Breed
+Thai
+Sex
+Unk
+Birth date
+March 2016
+2)	ข้อมูลห้องปฏิบัติการ
+Submitted sample
+Swab หนองจากฝี
+Method of collection
+NA
+Vitek ID card
+GP
+Lot No
+2420289403
+Vitek AST card
+GP
+3)	ผลจากห้องปฏิบัติการ (Vitek®):				
+Bacterial Species identification
+Kocuria rosea
+Antimicrobials
+Results
+MIC
+S/I/R
+Cefoxitin
+TRM
+NA
+Benzyl penicillin
+TRM
+NA
+Amoxicillin/clavulanic
+TRM
+NA
+Oxacillin
+TRM
+NA
+Cephalothin
+TRM
+NA
+Cefpodoxime
+TRM
+NA
+Cefovecin
+TRM
+NA
+Gentamicin
+TRM
+NA
+Enrofloxacin
+TRM
+NA
+Marbofloxacin
+TRM
+NA
+Inducible clindamycin
+TRM
+NA
+Antimicrobials
+Results
+MIC
+S/I/R
+Erythromycin
+TRM
+NA
+Clindamycin
+TRM
+NA
+Vancomycin
+TRM
+NA
+Tetracycline
+TRM
+NA
+Nitrofurantoin
+TRM
+NA
+Fusidic acid
+TRM
+NA
+Mupirocin
+TRM
+NA
+Chloramphenicol
+TRM
+NA
+Rifampicin
+TRM
+NA
+Sulfamethoxazole/trimethoprim
+TRM
+NA
+4)	Recommendation of antimicrobial choices
+Bacterial Species identification
+Kocuria rosea
+--	Kocuria rosea เป็น gram-positive cocci ที่เป็นเชื้อประจำถิ่นที่ผิวหนังและเยื่อเมือกของสัตว์ ไม่มีบทบาทในการก่อโรค จึงมีโอกาสเป็นไปได้สูงที่เกิดการปนเปื้อมายังรอยโรคและการเก็บตัวอย่าง
+--	เนื่องจากเชื้อนี้เป็นเชื้อไม่ก่อโรค จึงไม่มีค่าวิกฤติมาตรฐานในการแปลผลความไวรับต่อยาต้านจุลชีพ
+--	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+--		 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อที่กระจายทั่วร่างกาย ยาต้านจุลชีพที่เป็น 1st-line empirical treatment ที่แนะนำ ได้แก่
+	--		Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+--	ในกรณีที่ไม่ตอบสนองต่อการรักษา แนะนำให้ทำ cytologic examination ดูลักษณะเซลล์แบคทีเรีย และเก็บตัวอย่างส่งตรวจเพาะเชื้อซ้ำ
+อ.สพ.ญ.ดร.นิภัทรา สวนไพรินทร์, ผศ.น.สพ.ดร.ภัทรรัฐ จันทร์ฉายทอง ผู้ทำการอ่านผลและแนะนำ 26 กรกฎาคม พ.ศ.2560",,,,,,,,,,,,,,
+0,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,S,,,,,-,S,S,S,R,-,,,S,S,S,S
+1,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+2,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,R,,,S,,,,R,I,,,,,,,,S
+3,Dog,GP,Staphylococcus lugdunensis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,S,S,S,-,,,S,S,S,S
+4,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+5,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,R,,R,S,,,,R,S,,,R,,-,S,S,R,S,-,,,S,R,S,S
+6,Cat,GP,Lactococcus garvieae,,,S,,S,S,,,,S,,,,I,,S,,S,R,,,,S,S,,,,,+,S,R,S,I,-,,,,R,R,S
+7,Dog,GP,Staphylococcus haemolyticus,,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+8,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,,,,,S,S,,,*R,,,S,R,*I,,,,,,S,,
+9,Dog,GP,Enterococcus faecium (1.8x105 CFU/ml),,,R,,S,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,
+10,Dog,GP,Staphylococcus aureus / Staphylococcus pseudintermedius (1.2x105 CFU/ml),,,*R,,S,R,,,,R,,,,R,,I,,R,S,,,,S,R,,,*R,,*+,*R,S,R,S,-,,,S,R,S,S
+11,Dog,GP,Staphylococcus pseudintermedius or S. aureus or S. haemolyticus,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,*R,,-,S,R,R,S,-,,,R,R,S,S
+12,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+13,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+14,Dog,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,I,,,,*R,R,,,R,,,,R,R,,,,,,,,S
+15,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+16,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+17,Dog,GP,Enterococcus gallinarum,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,R,,,S,,,,R,S,,,,,,,,*R
+18,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+19,Cat,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,R,R,S,-,,,S,S,S,S
+20,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,R,R,S,-,,,S,S,S,S
+21,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,I,,,,R,,S,,R,S,,,,S,R,,,R,,-,R,R,R,S,-,,,S,R,S,S
+22,Dog,GP,Staphylococcus haemolyticus,,,*R,,R,R,,,,R,,,,S,,S,,S,S,,,,S,R,,,*R,,+,*R,R,R,I,-,,,S,R,S,S
+23,Dog,GP,Streptococcus agalactiae,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+24,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,R,R,R,S,-,,,R,R,S,S
+25,Dog,GP,Staphylococcus pseudintermedius (1.0x103 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+26,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,R,R,R,S,-,,,R,R,S,S
+27,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,R,R,,,S,,,,R,R,,,,,,,,S
+28,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+29,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,R,R,S,-,,,S,S,S,S
+30,Dog,GP,Enterococcus faecium (3.0x103 CFU/ml),,,R,,R,,,,,S,,,,R,,,,R,R,,,,R,R,,,R,,,,R,I,,,,,,,,S
+31,Dog,GP,Staphylococcus sciuri,,,S,,R,I,,,,S,,,,S,,S,,S,S,,,,S,R,,,*R,,-,S,S,S,*R,-,,,S,R,S,S
+32,Cat,GP,Gemella haemolyticus/Gemella sanguinis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,S,,,,*R,R,,,S,,,,R,I,,,,,,,,S
+34,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,
+35,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,I,,,,I,S,,,,R,R,,,S,,,,R,R,,,,,,,,S
+36,Cat,GP,Staphylococcus pseudintermedius (9.0x103 CFU/ml),,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,I,R,R,S,-,,,S,R,S,S
+37,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,,,,S,S,,,,S
+38,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,*R,,-,S,S,I,S,-,,,S,S,S,S
+39,Dog,GP,Staphylococcus lugdunensis,,,S,,S,S,,,,R,,,,I,,R,,S,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+40,Cat,GP,Enterococcus faecium,,,R,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,,R,,,,R,R,,,,,,,,S
+41,Cat,GP,Streptococcus thoraltensis,,,,,,,,,,,,,,,,,,,,,,,S,R,,,,,,,,R,,-,R,,,,,
+42,Dog,GP,Streptococcus pyogenes,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+43,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+44,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+45,Dog,GP,Staphylococcus sciuri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,,,-,R,R,R,R,-,,,S,R,R,R
+46,Cat,GP,Streptococcus dysgalactiae ssp dysgalactiae or Streptococcus sanguinis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+47,Cat,GP,Erysipelothrix rhusiopathiae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+49,Cat,GP,Staphylococcus caprae or Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+50,Dog,GP,Micrococcus luteus/lylae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,I,,,S,S,,,S,S,,,S,S,,,,S
+52,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,I,,,S,S,,,S,S,,,S,S,,,,S
+53,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+54,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+55,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+56,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,,R,,,,,-,S,R,R,S,-,,,S,S,S,S
+57,Dog,GP,Staphylococcus pseudintermedius (2.0x103 CFU/ml),,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,R,S,+,,,S,S,S,S
+58,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,S,R,,,,,-,S,R,R,S,-,,,S,R,S,S
+59,Dog,GP,Staphylococcus schleiferi,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,,,,-,S,R,R,S,-,,,R,R,S,S
+60,Dog,GP,Staphylococcus aureus,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,,*R,,*+,*R,R,R,S,-,,,R,R,S,S
+61,Dog,GP,Staphylococcus schleiferi,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,,,,-,S,R,R,S,-,,,S,R,S,S
+62,Dog,GP,Streptococcus agalactiae,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,-,S,S,,,,S
+63,Dog,GP,Staphylococcus pseudintermedius (8.9x104 CFU/ml),,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+64,Dog,GP,Staphylococcus haemolyticus,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,S,R,,,*R,,+,R,R,R,S,-,,,R,R,R,S
+65,Dog,GP,Staphylococcus pseudintermedius (1.2x105 CFU/ml),,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,S,S,R,S,-,,,S,R,S,S
+66,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,S,,,S,,-,S,S,R,S,-,,,S,S,S,S
+67,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,S,,,S,,-,S,S,R,S,-,,,S,S,S,S
+68,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+69,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+70,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,,,,-,S,R,R,S,-,,,R,R,S,S
+71,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,,,,-,S,R,R,S,-,,,R,R,S,S
+72,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+73,Cat,GP,Staphylococcus xylosus or Staphylococcus simulans or Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+74,Cat,GP,Staphylococcus vitulinus or Staphylococcus capitis,,,S,,R,R,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+75,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,*R,,-,S,S,S,S,-,,,S,S,S,S
+76,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,R,R,,,S,,,,R,R,,,,,,,,S
+77,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,,S,,,,R,R,,,,,,,,S
+78,Dog,GP,Staphylococcus epidermidis,,,*R,,R,R,,,,S,,,,S,,R,,S,S,,,,R,S,,,*R,,+,*R,S,S,S,-,,,R,R,S,S
+79,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,,,-,S,R,R,S,-,,,S,R,S,S
+80,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+81,Dog,GP,Staphylococcus haemolyticus,,,*R,,R,R,,,,S,,,,I,,S,,I,S,,,,R,R,,,*R,,+,*R,*R,R,R,+,,,R,R,S,S
+82,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,S,,,,S,,,,S,,S,,S,I,,,,S,S,,,,,-,S,R,S,S,-,,,S,S,S,S
+83,Dog,GP,Staphylococcus scuiri,,,S,,I,I,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,*I,S,I,-,,,,R,S,S
+84,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,R,S,,,,*R,S,,,S,,,,R,I,,,,,R,,,S
+85,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+86,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+87,Dog,GP,Staphylococcus epidermidis,,,*R,,R,R,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,+,*R,R,R,I,-,,,S,R,S,S
+88,Cat,GP,Staphylococcus caprae,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+89,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+90,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,I,,S,,R,S,,,,S,R,,,,,-,S,S,S,S,-,,,S,R,S,S
+91,Cat,GP,Staphylococcus lugdunensis (1.0x103 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,*R,,-,S,S,S,S,-,,,S,S,S,S
+92,Cat,GP,Staphylococcus simulans,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+93,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,I,,S,,S,S,,,,R,R,,,S,,-,S,S,R,S,-,,,S,S,S,S
+94,Dog,GP,Staphylococcus schleiferi,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+95,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+96,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+97,Dog,GP,Staphylococcus saprophyticus,,,S,,R,I,,,,S,,,,S,,S,,S,S,,,,S,R,,,*R,,-,S,R,R,*R,-,,,S,R,S,S
+98,Cat,GP,Staphylococcus cohnii ssp urealyticus (1.0x103 CFU/ml),,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,S,S,I,-,,,S,R,S,S
+99,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+100,Dog,GP,Staphylococcus schleiferi,,,S,,S,I,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,S,R,S,-,,,R,S,S,S
+101,Dog,GP,Staphylococcus pseudintermedius (9.4x106 CFU/ml),,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+102,Dog,GP,Kocuria rosea / Kocuria varians / Kocuria rhizophila,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,R,R,R,R,-,,,R,R,R,R
+104,Dog,GP,Streptococcus sanguinis,,,,,S,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,,,,,,,,,S
+105,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+106,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,R,S,S,-,,,S,R,S,S
+107,Dog,GP,Streptococcus infantarius ssp coli,,S,,,,,,S,,,,,,,,,,,,,,,,R,,,S,S,,,S,S,,,I,S,,,,S
+108,Dog,GP,Staphylococcus schleiferi,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,S,R,,,,,-,I,R,R,S,-,,,R,R,S,S
+109,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,I,,I,,S,S,,,,R,R,,,R,,-,R,S,R,S,+,,,S,R,S,S
+110,Dog,GP,Enterococcus faecalis (1.0x103 CFU/ml),,,S,,R,,,,,S,,,,R,,,,R,S,,,,*R,R,,,S,,,,R,R,,,,,,,,S
+111,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+112,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,I,,,S,S,,,S,S,,,S,S,,,,S
+113,Dog,GP,Staphylococcus chromogenes,,,S,,R,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+114,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+115,Dog,GP,"Unidentified gram positive bacteria (+catalase, -oxidase)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,*R,R,,,S,S,,,,S
+117,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+118,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,R,,,,R,,,,R,S,,,,R,R,,,S,,,,R,R,,,,,,,,S
+119,Dog,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,I,,,,I,S,,,,*R,R,,,S,,,,R,I,,,,,,,,S
+120,Dog,GP,Staphylococcus warneri,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,R,*I,S,-,,,S,S,S,S
+121,Cat,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,-,S,S,R,S,-,,,,R,S,S
+122,Cat,GP,Enterococcus faecalis,,,,,,,,,,R,,,,I,,,,I,S,,,,,R,,,S,,,,,R,,,,,,,,S
+123,Cat,GP,Streptococcus sanguinis,,S,,,,,,S,,,,,,,,,,,,,,,,S,,,S,S,,,S,S,,,R,S,,,,S
+124,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,S,S,S,-,,,S,S,S,S
+125,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,S,,-,S,S,S,S,-,,,S,S,S,S
+126,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+127,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+128,Cat,GP,Staphylococcus cohnii ssp urealyticus,,,S,,I,I,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,S,S,I,-,,,S,R,S,S
+129,Cat,GP,Staphylococcus hominis ssp hominis (3.0x103 CFU/ml),,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,*R,,+,R,S,R,S,-,,,S,,S,S
+130,Dog,GP,Staphylococcus epidermidis,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,R,R,S,-,,,S,S,S,S
+131,Cat,GP,Enterococcus faecalis,,,S,,R,,,,,S,,,,S,,,,S,S,,,,*R,S,,,S,,,,R,I,,,,,,,,S
+132,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,S,S,S,S,-,,,S,S,S,S
+133,Cat,GP,Staphylococcus chromogenes,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,S,,-,S,S,R,S,+,,,S,S,S,S
+134,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+135,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+136,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+137,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,,S,R,R,S,-,,,,R,S,S
+138,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+139,Cat,GP,Staphylococcus simulans,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+140,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+141,Cat,GP,Kocuria rhizophila,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,Dog,GP,"Low discrimination among Staphylococcus aureus, Staphylococcus chromogenes, Staphylococcus pseudintermedius (2.7x105 CFU/ml)",,,S,,S,,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,,*R,R,*R,+,,,S,S,S,S
+143,Dog,GP,Dermacoccus nishinomiyaensis / Kytococcus sedentarius (2.6x105 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+145,Cat,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+146,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,R,R,R,S,-,,,R,R,S,S
+147,Cat,GP,"Streptococcus agalactiae, Streptococcus constellatus ssp constellatus, or Streptococcus dysgalactiae ssp equisimilis",,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+148,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+149,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,S,S,,,,,R,,,S,,,,,I,,,,,,,,S
+150,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,R,R,R,S,-,,,S,R,S,S
+151,Cat,GP,Staphylococcus aureus,,,R,,R,R,,,,S,,,,R,,S,,R,S,,,,,R,,,*R,,+,R,R,R,S,-,,,S,R,S,S
+152,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,S,,,,S,S,,,,,R,,,S,,,,,R,,,,,,,,S
+153,Cat,GP,Staphylococcus aureus,,,*R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,*R,R,S,S,-,,,S,R,S,S
+154,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+155,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+156,Dog,GP,Streptococcus gallolyticus ssp pasteurianus (เลือก Streptococcus agalactiae),,,,,S,,,,,R,,,,I,,,,R,S,,,,,R,,,S,,,,,,,,,,,,,S
+157,Dog,GP,Staphylococcus capitis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+158,Cat,GP,Staphylococcus caprae,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+159,Dog,GP,Enterococcus faecium (1.4 x 107 cfu/mL),,,,,,,,,,S,,,,R,,,,R,R,,,,,S,,,R,,,,,I,,,,,,,,S
+160,Dog,GP,Staphylococcus hominis ssp hominis / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,*R,-,,,S,S,S,S
+161,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,R,,,,,R,,,R,,,,,R,,,,,,,,S
+162,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+163,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+164,Dog,GP,Staphylococcus chromogenes (9.4x104 CFU/ml),,,S,,S,,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,,S,S,S,-,,,S,S,S,S
+165,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+166,Dog,GP,Enterococcus faecalis,,,,,,,,,,R,,,,I,,,,S,S,,,,,R,,,S,,,,,R,,,,,,,,S
+167,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+168,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,I,,S,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R,S,S
+169,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,I,,S,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R,S,S
+170,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+171,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+172,Dog,GP,Staphylococcus haemolyticus,,,*R,,R,,,,,R,,,,S,,S,,S,S,,,,S,S,,,R,,+,,R,R,R,-,,,S,R,S,S
+173,Dog,GP,Staphylococcus haemolyticus,,,*R,,R,,,,,R,,,,S,,S,,S,S,,,,S,S,,,R,,+,,R,R,R,-,,,S,R,S,S
+174,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+175,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+176,Dog,GP,Staphylococcus chromogenes,,,R,,R,,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,+,,R,R,S,-,,,S,R,S,S
+177,Dog,GP,Staphylococcus chromogenes,,,R,,R,,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,+,,R,R,S,-,,,S,R,S,S
+178,Dog,GP,Staphylococcus epidermidis,,,*R,,R,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,R,S,R,-,,,S,R,S,S
+179,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+180,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,*R,R,S,+,,,S,R,S,S
+181,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+182,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,I,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+183,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+184,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+185,Cat,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,R,,,,,R,,,R,,,,,R,,,,,,,,S
+186,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,R,,S,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+187,Dog,GP,Streptococcus iniae,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,-,S,S,,,,S
+188,Cat,GP,Staphylococcus epidermidis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+189,Cat,GP,Streptococcus pseudoporcinus,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+190,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,S,,,,S,S,,,,,R,,,S,,,,,R,,,,,,,,S
+191,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+192,Cat,GP,Enterococcus faecium (2.9x106 CFU/ml),,,,,,,,,,S,,,,R,,,,R,R,,,,,R,,,R,,,,,R,,,,,,,,S
+193,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+194,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+195,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,S,,,,S,,,,R,,R,,R,S,,,,,R,,,R,,-,S,R,R,S,-,,,R,R,S,S
+196,Cat,GP,Enterococcus gallinarum / Enterococcus faecium (1.0x103 CFU/ml),,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,S,,,,,,,,*R
+197,Dog,GP,Enterococcus faecalis (7.0x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,I,,,,,,,,S
+198,Cat,GP,Staphylococcus chromogenes / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+199,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+200,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+201,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+202,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+203,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+204,Dog,GP,Enterococcus gallinarum,,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,I,,,,,,,,*R
+205,cat,GP,Staphylococcus caprae / Staphylococcus capitis / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+206,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+207,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,*R,R,S,+,,,R,R,S,S
+208,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,R,,,,S,,S,,S,S,,,,R,R,,,R,,-,,*R,R,S,+,,,S,S,S,S
+209,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+210,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+211,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+212,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+213,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,R,S,-,,,S,R,S,S
+214,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+215,Cat,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,I,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+216,Dog,GP,Staphylococcus aureus (1.8x105 CFU/ml),,,S,,S,S,,,,,,,,,,,,R,,,,,,,,,,,,S,,,,,,,,,,
+217,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+218,Cat,GP,Streptococcus pseudoporcinus,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,*R,R,,,S,S,,,,S
+219,Dog,GP,Enterococcus faecalis (5.0x105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+220,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+221,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+222,Cat,GP,Lactococcus garvieae (5.8x106 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,Cat,GP,Staphylococcus warneri (1.8x107CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+224,Cat,GP,Staphylococcus warneri (2.0x103 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+225,Cat,GP,Staphylococcus haemolyticus,,,*R,,R,,,,,S,,,,I,,I,,I,S,,,,S,R,,,R,,+,,S,S,S,-,,,S,R,S,S
+226,Cat,GP,Bacillus spp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,R,R,S,S
+228,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+229,Dog,GP,Staphylococcus aureus or Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+230,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+231,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+232,Cat,GP,Staphylococcus capitis / Staphylococcus hominis ssp hominis / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+233,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+234,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+235,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+236,Dog,GP,"Staphylococcus aureus, Staphylococcus chromogenes or Staphylococcus hyicus",,,S,,S,,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,,S,S,S,-,,,S,S,S,S
+237,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+238,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+239,Cat,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+240,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+241,Dog,GP,Staphylococcus pseudintermedius (5.2x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+242,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,R,S,-,,,S,S,S,S
+243,Dog,GP,Staphylococcus pseudintermedius (3.6x104 CFU/ml),,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+244,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+245,Dog,GP,Staphylococcus epidermidis,,,*R,,R,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,S,S,S,-,,,S,R,S,S
+246,Dog,GP,Staphylococcus aureus (2.1x107 CFU/ml),,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,R,R,S,+,,,S,S,S,S
+247,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+248,Dog,GP,Enterococcus faecalis,,,,,,,,,,R,,,,I,,,,I,S,,,,,R,,,S,,,,,R,,,,,,,,S
+249,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,S,S,R,S,-,,,S,R,S,S
+250,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+251,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,I,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+252,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,R,I,R,-,,,S,R,S,R
+253,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,I,,S,,S,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+254,Dog,GP,Staphylococcus epidermidis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+255,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+256,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,R,-,,,R,R,S,S
+257,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+258,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+259,Cat,GP,Enterococcus faecalis (1x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+260,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,R,S,,,,,R,,,S,,,,,I,,,,,,,,S
+261,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+262,Dog,GP,Streptococcus pyogenes,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+263,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,I,*I,S,,,,S,S,S,S
+264,Dog,GP,Enterococcus faecium (7.7x104 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,R,,,,,I,,,,,,,,S
+265,Dog,GP,Staphylococcus epidermidis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+266,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+267,Cat,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+268,Cat,GP,Staphylococcus pseudintermedius (8.1x106 CFU/ml),,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,+,S,R,R,S,+,,,S,R,S,S
+269,Cat,GP,Streptococcus parasanguinis,,S,,,,,,S,,,,,,,,,,,,,,,,I,,,S,S,,,S,,,,S,S,,,,S
+270,Cat,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+271,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,R,S,S
+272,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+273,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+274,Cat,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+275,Dog,GP,Enterococcus faecium (1.1x107 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+276,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+277,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+278,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+279,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+280,Cat,GP,Staphylococcus epidermidis,,,*R,,R,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,R,S,S,-,,,S,R,S,S
+281,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+282,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+283,Cat,GP,Staphylococcus epidermidis,,,*R,,R,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,S,S,S,-,,,S,R,S,S
+284,Dog,GP,Staphylococcus haemolyticus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,R,-,,,S,S,S,S
+285,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+286,Cat,GP,Streptococcus pseudoporcinus (1.5x107 CFU/ml),,,,,S,,,,,S,,,,S,,,,S,S,,,,,S,,,S,,,,,,,,,,,,,
+287,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,*I,S,-,,,S,S,S,S
+288,Dog,GP,"Unidentified Gram positive cocci, +Catalase, -Oxidase, -motility",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,Dog,GP,Staphylococcus haemolyticus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,R,R,S,-,,,S,S,S,S
+290,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+291,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+292,Dog,GP,Enterococcus faecium (9.0x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+293,Dog,GP,Staphylococcus cohnii ssp urealyticus,,,S,,I,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,+,,R,R,R,-,,,S,R,S,S
+294,Cat,GP,"Non or low reactive biopattern (Gram positive bacteria, Rod shape, Positive catalase, Negative oxidase) (2.6x104 CFU/ml)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,I,,,,,,,,S
+296,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+297,Cat,GP,Streptococcus agalactiae / Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,-,S,S,,,,S
+298,Dog,GP,Staphylococcus equorum,,,R,,R,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,S,R,*R,-,,,S,R,S,S
+299,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+300,Cat,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+301,Dog,GP,Streptococcus iniae,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+302,Cat,GP,Staphylococcus pseudintermedius (8.7x104 CFU/ml),,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+303,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+304,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+305,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+306,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+307,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+308,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+309,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,I,S,,,,,S,,,S,,,,,I,,,,,,,,S
+310,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+311,Dog,GP,Staphylococcus hyicus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+312,Dog,GP,Streptococcus agalactiae / Streptococcus dysgalactiae ssp equisimilis,,,,,S,,,,,S,,,,S,,,,S,S,,,,,I,,,S,,,,,,,,,,,,,S
+313,Cat,GP,Staphylococcus hominis ssp hominis,,,*R,,S,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,+,,*R,R,S,+,,,S,R,S,S
+314,Cat,GP,Staphylococcus warneri (1.0x103 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+315,Cat,GP,Streptococcus oralis / Streptococcus mitis,,I,,,,,,S,,,,,,,,,,,,,,,,S,,,I,S,,,S,S,,,S,S,,,,S
+316,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+317,Cat,GP,Staphylococcus aureus,,,*R,,I,*R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,*R,R,S,S,-,,,S,R,S,S
+318,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+319,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+320,Cat,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+321,Cat,GP,Staphylococcus simulans / Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+322,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+323,Cat,GP,Streptococcus pneumoniae,,R,,,,,,R,,,,,,,,,,,,,,,R,S,,,,R,,,S,S,,,R,S,,,,S
+324,Dog,GP,Staphylococcus aureus,,,R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,+,R,R,S,S,-,,,S,R,S,S
+325,Cat,GP,Enterococcus casseliflavus / Enterococcus gallinarum,,,,,,,,,,S,,,,I,,,,R,S,,,,,R,,,S,,,,,S,,,,,,,,*R
+326,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+327,Dog,GP,Staphylococcus hominis ssp hominis (8.0x104 CFU/ml),,,S,,S,,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,,S,S,S,-,,,S,S,S,S
+328,Dog,GP,Staphylococcus aureus (4.2x104 CFU/ml),,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+329,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+330,Cat,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R*,S,S
+331,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+332,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,S,S,S
+333,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+334,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R*,S,S
+335,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R*,S,S
+336,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+337,Dog,GP,Staphylococcus schleiferi,,,R,,R,,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+338,Cat,GP,Staphylococcus epidermidis (2.0x103 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,,R,S,S,-,,,S,S,S,S
+339,Dog,GP,Streptococcus mitis / Streptococcus oralis,,S,,,,,,S,,,,,,,,,,,,,,,,R,,,S,S,,,R,,,,S,S,,,,S
+340,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,I,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,S,S,S
+341,Dog,GP,Staphylococcus hominis ssp hominis / Staphylococcus warneri,,,S,,S,,,,,,,,,I,,,,R,S,,,,R,,,,,,-,,S,,*R,-,,,,,S,S
+342,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+343,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+344,Dog,GP,Streptococcus pyogenes,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,-,S,S,,,,S
+345,Dog,GP,Staphylococcus pseudintermedius (8.2x105 CFU/ml),,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+346,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+347,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+348,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+349,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+350,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+351,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+352,Dog,GP,Staphylococcus auricularis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+353,Dog,GP,Staphylococcus pseudintermedius (2.5x105 CFU/ml),,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,+,S,S,R,S,-,,,S,R,S,S
+354,Dog,GP,Non or Low reactive biopattern (1.3x105 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,Dog,GP,Non or Low reactive biopattern (1.3x105 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,Cat,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,R,R,R,S,-,,,S,R,R,S
+357,Dog,GP,Staphylococcus epidermidis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,R,S,-,,,S,S,S,S
+358,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+359,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,I,,R,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+360,Dog,GP,Enterococcus faecalis,,,,,,,,,,R,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+361,Cat,GP,Staphylococcus simulans / Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+362,Dog,GP,Staphylococcus hominis ssp hominis or Staphylococcus hominis ssp novobiosepticus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,*R,R,S,+,,,S,S,S,S
+363,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+364,Cat,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,S,S,,,,,R,,,S,,,,,R,,,,,,,,S
+365,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+366,Cat,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+367,Cat,GP,Staphylococcus schleiferi,,,R,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,+,,R,R,S,-,,,R,R,S,S
+368,Dog,GP,Streptococcus agalactiae,,,,,S,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,,,,,,,,,S
+369,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,*I,S,-,,,S,S,S,S
+370,Dog,GP,Streptococcus anginosus,,S,,,,,,S,,,,,,,,,,,,,,,,S,,,S,S,,,S,S,,,S,S,,,,S
+371,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+372,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+373,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+374,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,,S,R,S,-,,,S,S,S,S
+375,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+376,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+377,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+378,Cat,GP,Enterococcus faecalis,,,,,,,,,,S,,,,S,,,,S,S,,,,,R,,,S,,,,,I,,,,,,,,S
+379,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+380,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+381,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+382,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,,S,S,I,S,-,,,S,S,S,S
+383,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+384,Cat,GP,Staphylococcus caprae / Staphylococcus chromogenes / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+385,Dog,GP,Staphylococcus pseudintermedius (1.2x105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+386,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+387,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+388,Cat,GP,Kocuria virians (2.3x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+390,Cat,GP,Staphylococcus sciuri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,*R,,-,,*I,S,R,-,,,S,R,S,S
+391,Cat,GP,Staphylococcus caprae (2.3x104 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+392,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+393,Cat,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,R,S,,,,,R,,,S,,,,,I,,,,,,,,S
+394,Dog,GP,Staphylococcus caprae,,,S,,S,,,,,S,,,,S,,R,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+395,Dog,GP,Staphylococcus aureus / Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+396,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+397,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+398,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,S,,,R,,-,S,R,R,S,-,,,S,S,S,S
+399,Dog,GP,Enterococcus faecalis (2.2x106 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,S,,,S,,,,,I,,,,,,,,S
+400,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+401,Dog,GP,Enterococcus faecium (2.0x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,S,,,R,,,,,I,,,,,,,,S
+402,Dog,GP,Enterococcus hirae,,,,,,,,,,S,,,,I,,,,S,I,,,,,R,,,,,S,,,S,,,,,,,,S
+403,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+404,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+405,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,I,,R,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+406,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+407,Dog,GP,Staphylococcus pseudintermedius (7.0x105 CFU/ml),,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,S,S,-,,,S,S,S,S
+408,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R,S,S
+409,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,I,,R,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+410,Dog,GP,Streptococcus pseudoporcinus / Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+411,Cat,GP,Granulicatella adiacens (เลือกยา Streptococcus agalactiae),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,
+412,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+413,Cat,GP,Streptococcus pyogenes,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,-,S,S,,,,S
+414,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+415,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R,S,S
+416,Dog,GP,Streptococcus pneumoniae,,R,,,,,,S,,,,,,,,,,,,,,,I,S,,,I,S,,,S,S,,,R,S,,,,S
+417,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+418,Cat,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,,,,,R,S,,,,,R,,,,,,,,R,,,,,,,,S
+419,Dog,GP,Staphylococcus aureus,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+420,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+421,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+422,Cat,GP,Staphylococcus caprae,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+423,Dog,GP,Streptococcus canis (2.0x103 CFU/ml),,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+424,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+425,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,R,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+426,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+427,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+428,Cat,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,S,,,,R,,I,,R,S,,,,R,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+429,Cat,GP,Enterococcus faecium (4.0x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+430,Cat,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,R,S,,,,,S,,,S,,,,,S,,,,,,,,S
+431,Cat,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+432,Dog,GP,Streptococcus pseudoporcinus / Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,*I,,,S,S,,,,S
+433,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+434,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+435,Cat,GP,Staphylococcus simulans,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+436,Dog,GP,Streptococcus pseudoporcinus,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,*R,R,,,S,S,,,,S
+437,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+438,Cat,GP,Streptococcus parasanguinis,,S,,,,,,S,,,,,,,,,,,,,,,,S,,,S,S,,,S,,,,S,S,,,,S
+439,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+440,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+441,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+442,Cat,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+443,Dog,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+444,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,R,,,,,,,,S
+445,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+446,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,R,R,R,S,-,,,S,R,S,S
+447,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,S,,,,S,,,,R,,I,,R,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,R,S,S
+448,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+449,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,I,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+450,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+451,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+452,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+453,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,S,,,R,,-,S,R,R,S,-,,,S,S,S,S
+454,Cat,GP,Staphylococcus haemolyticus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,*R,R,S,+,,,S,S,S,S
+455,Dog,GP,Staphylococcus schleiferi,,,S,,R,,,,,S,,,,R,,R,,R,S,,,,S,R,,,R,,+,,R,R,S,-,,,R,R,S,S
+456,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+457,Dog,GP,Staphylococcus chromogenes,,,S,,R,,,,,S,,,,I,,S,,S,S,,,,S,R,,,S,,-,,R,R,S,-,,,S,R,S,S
+458,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+459,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,S,R,R,S,-,,,S,R,S,S
+460,Cat,GP,Enterococcus faecium (4.0x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,I,,,,,,,,S
+461,Cat,GP,Enterococcus faecium (8.8x104 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,S,,,R,,,,,I,,,,,,,,S
+462,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,R,R,S,S
+463,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,R,R,S,+,,,S,S,S,S
+464,Cat,GP,Streptococcus pneumoniae,,S,,,,,,,,,,,,,,,,,,,,,I,S,,,S,S,,,,,,,R,S,,,,S
+465,Dog,GP,Streptococcus pseudoporcinus / Streptococcus pyogenes,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+466,Dog,GP,Enterococcus faecium (4x103 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,I,,,,,,,,S
+467,Dog,GP,Staphylococcus aureus/Staphylococcus pseudintermedius,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+468,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+469,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+470,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+471,Cat,GP,Staphylococcus simulans /Staphylococcus chromogenes /Staphylococcus xylosus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+472,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,*I,S,-,,,S,S,S,S
+473,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+474,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,S,,,,,R,,,,,,,,S
+475,Cat,GP,Staphylococcus warneri,,,*R,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,+,,S,S,R,-,,,S,R,S,S
+476,Cat,GP,Staphylococcus saprophyticus,,,*R,,R,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,,,R,R,R,-,,,I,R,S,S
+477,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+478,Cat,GP,Kocuria rhizophila (6.2x104 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,Cat,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+480,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,R,R,R,S,-,,,S,R,S,S
+481,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+482,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,I,,S,S,,,,R,R,,,R,,+,S,S,S,S,-,,,S,S,S,S
+483,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+484,Cat,GP,Staphylococcus warneri (>105 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+485,Cat,GP,Staphylococcus capitis/ Staphylococcus caprae/ Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,*R,-,,,S,S,S,S
+486,Cat,GP,Streptococcus pluranimalium,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+487,Cat,GP,"Staphylococcus simulans, Staphylococcus chromogenes or Staphylococcus xylosus",,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,R,R,S,-,,,S,S,S,S
+488,Dog,GP,Enterococcus faecium (1.4x105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,R,,,,,I,,,,,,,,S
+489,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,,R,,,R,,-,S,S,R,R,-,,,S,R,S,S
+490,Dog,GP,Enterococcus faecium (4.1x104 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+491,Dog,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+492,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,,*I,,,S,S,,,,S
+493,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,R,,,S,S,,,,S
+494,Dog,GP,Enterococcus faecalis (>105 CFU/ml),,,,,,,,,,R,,,,S,,,,S,S,,,,,R,,,S,,,,,R,,,,,,,,S
+495,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+496,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+497,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+498,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,,*I,,,S,S,,,,S
+499,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,*R,R,S,+,,,S,S,S,S
+500,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,R,S,S
+501,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+502,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+503,Dog,GP,Staphylococcus aureus,,,*R,,R,R,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,*+,*R,R,R,S,-,,,S,R,S,S
+504,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,I,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+505,Dog,GP,Enterococcus faecalis (>105 CFU/ml),,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,S,,,,,,,,S
+506,Dog,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,I,,,,,,,,S
+507,Cat,GP,Enterococcus cecorum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+508,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,R,S,S
+509,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+510,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+511,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+512,Cat,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,I,,,,,,,,S
+513,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,S,S,S
+514,Cat,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,I,,,,,,,,S
+515,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+516,Cat,GP,Streptococcus dysgalactiae ssp equisimilis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,*R,R,,,S,S,,,,S
+517,Dog,GP,Staphylococcus chromogenes,,,S,,R,,,,,S,,,,S,,R,,S,S,,,,S,R,,,R,,-,,R,R,S,-,,,R,R,S,S
+518,Dog,GP,Staphylococcus aureus,,,S,,S,I,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+519,Dog,GP,Enterococcus faecalis (1.6x104 CFU/ml),,,,,,,,,,S,,,,I,,,,I,S,,,,,S,,,S,,,,,I,,,,,,,,S
+520,Dog,GP,Staphylococcus pseudintermedius,,,R,,R,R,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+521,Cat,GP,Globicatella sanguinis (>105 CFU/ml),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+522,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+523,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+524,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+525,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,R,,,,,R,,,R,,,,,I,,,,,,,,S
+526,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,,,,,S,,,,S,S,,,,S,S,,,,,-,S,S,,S,-,,,S,S,S,S
+527,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,I,,,,,R,,,R,,,,,R,,,,,,,,S
+528,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+529,Cat,GP,Staphylococcus lentus,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+530,Dog,GP,Enterococcus faecium,,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,R,,,,,I,,,,,,,,S
+531,Cat,GP,Staphylococcus capitis,,,S,,S,,,,,R,,,,S,,S,,S,S,,,,S,R,,,S,,-,,S,S,S,-,,,S,S,S,S
+532,Dog,GP,Enterococcus durans / Enterococcus hirae,,,,,,,,,,S,,,,I,,,,I,I,,,,,S,,,S,,,,,I,,,,,,,,S
+533,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+534,Dog,GP,Staphylococcus aureus,,,*R,,R,R,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,+,*R,R,S,S,-,,,S,R,S,S
+535,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+536,Cat,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+537,Cat,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,,S,S
+538,Dog,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,*I,S,-,,,S,*S,S,S
+539,Cat,GP,Staphylococcus hominis ssp hominis / Staphylococcus warneri,,,*R,,R,,,,,R,,,,R,,S,,R,S,,,,S,S,,,R,,+,,R,R,S,-,,,S,*R,S,S
+540,Dog,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+541,Cat,GP,Staphylococcus simulans,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+542,Feline,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+543,Dog,GP,Staphylococcus haemolyticus,,,R,,R,,,,,S,,,,R,,I,,R,S,,,,,R,,,R,,+,,R,R,S,-,,,R,R,R,S
+544,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,R,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+545,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,*R,R,S,+,,,R,R,S,S
+546,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+547,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,,R,I,S,-,,,S,S,S,S
+548,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,R,R,S,S
+549,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,R,,R,,R,S,,,,S,S,,,R,,-,,S,S,S,-,,,R,R,S,S
+550,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,I,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,R,S,S
+551,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+552,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,I,,I,,I,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+553,Cat,GP,Low discrimination (6.3x106 CFU/ml),,,S,,S,,,,,S,,,,I,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+554,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,S,R,,,R,,+,R,R,R,S,-,,,S,R,S,S
+555,Dog,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,I,,,,S,S,,,R,,-,,S,S,S,-,,,S,R,S,S
+556,Dog,GP,Staphylococcus auricularis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+557,Dog,GP,Staphylococcus auricularis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,S,-,,,S,S,S,S
+558,Cat,GP,"Streptococcus agalactiae, Streptococcus anginosus, Streptococcus gordonii",,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+559,Cat,GP,"Streptococcus agalactiae, Streptococcus anginosus, Streptococcus gordonii",,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+560,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+561,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,R,S,S
+562,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,R,R,S,+,,,S,S,S,S
+563,Dog,GP,Staphylococcus schleiferi,,,S,,S,,,,,S,,,,I,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+564,Cat,GP,Streptococcus mitis / Streptococcus oralis,,S,,,,,,S,,,,,,,,,,,,,,,,S,,,S,S,,,,S,,,R,S,,,,S
+565,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+566,Cat,GP,Staphylococcus capitis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+567,Cat,GP,Staphylococcus pseudintermedius,,,S,,R,R,,,,R,,,,R,,I,,R,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+568,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+569,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+570,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,S,R,R,S,-,,,S,S,S,S
+571,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+572,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+573,Dog,GP,Staphylococcus pseudintermedius,,,S,,R,I,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+574,Dog,GP,Staphylococcus chromogenes,,,S,,S,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,R,R,S,-,,,S,S,S,S
+575,Cat,GP,Streptococcus pseudoporcinus,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,-,S,S,,,,S
+576,Dog,GP,Enterococcus durans (2.6x104 CFU/ml),,,,,,,,,,S,,,,I,,,,I,S,,,,,S,,,S,,,,,R,,,,,,,,S
+577,Cat,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,S,S,S,S,-,,,S,S,S,S
+578,Cat,GP,Staphylococcus caprae (1.0x103 CFU/ml),,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+579,Dog,GP,Staphylococcus chromogenes,,,S,,R,,,,,S,,,,R,,S,,R,S,,,,S,R,,,R,,-,,S,S,S,-,,,S,R,S,S
+580,Dog,GP,Staphylococcus chromogenes/Staphylococcus pseudintermedius,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,R,,,R,,-,,S,S,*R,-,,,S,S,S,S
+581,Cat,GP,Staphylococcus aureus (>105 CFU/ml),,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,S,S,S,S,-,,,S,S,S,S
+582,Cat,GP,Staphylococcus chromogenes / Staphylococcus lugdunensis / Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,S,S,*R,-,,,S,S,S,S
+583,Dog,GP,Staphylococcus pseudintermedius,,,R,,S,S,,,,R,,,,S,,R,,S,R,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+584,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,S,,S,,S,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+585,Dog,GP,Staphylococcus pseudintermedius (4.7x104 CFU/ml),,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,S,R,,,R,,-,S,*R,R,S,+,,,S,S,S,S
+586,Dog,GP,Staphylococcus chromogenes (1.7x106 CFU/ml),,,S,,S,,,,,S,,,,S,,R,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,S,S,S,S
+587,Dog,GP,Staphylococcus epidermidis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,S,S,-,,,S,S,S,S
+588,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+589,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,R,,,,S,,I,,S,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+590,Dog,GP,Staphylococcus hominis ssp hominis,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,*I,S,-,,,S,S,S,S
+591,Dog,GP,Staphylococcus pseudintermedius (1.5x106 CFU/ml),,,S,,R,I,,,,R,,,,R,,I,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,S,R,S,S
+592,Cat,GP,Staphylococcus warneri,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,R,,-,,R,S,S,-,,,S,R,S,S
+593,Dog,GP,Staphylococcus aureus,,,S,,S,S,,,,S,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,S,S,-,,,S,S,S,S
+594,Dog,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,R,,,S,S,,,S,S,,,S,S,,,,S
+595,Cat,GP,Staphylococcus simulans (2.8x104 CFU/mlX,,,S,,S,,,,,S,,,,S,,S,,S,S,,,,S,S,,,S,,-,,S,S,S,-,,,R,S,S,S
+596,Cat,GP,Streptococcus canis,,S,,,,,,S,,,,,,,,,,,,,,,S,S,,,S,S,,,S,S,,,S,S,,,,S
+597,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,R,,,,R,,S,,R,S,,,,R,R,,,R,,-,S,S,R,S,-,,,S,S,S,S
+598,Cat,GP,Enterococcus faecalis,,,,,,,,,,S,,,,I,,,,I,S,,,,,R,,,S,,,,,I,,,,,,,,S
+599,Dog,GP,Staphylococcus pseudintermedius,,,S,,S,S,,,,S,,,,R,,R,,R,S,,,,R,R,,,R,,-,S,R,R,S,-,,,R,R,S,S
+600,Cat,GP,Enterococcus faecium (1.2x106 CFU/ml),,,,,,,,,,S,,,,R,,,,R,R,,,,,R,,,S,,,,,R,,,,,,,,S
+601,Dog,GP,Enterococcus faecium (>105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,R,,,,,S,,,R,,,,,S,,,,,,,,S
+602,C,GP,Enterococcus faecium (1.2x105 CFU/ml),,,,,,,,,,S,,,,R,,,,R,S,,,,,R,,,R,,,,,I,,,,,,,,S
