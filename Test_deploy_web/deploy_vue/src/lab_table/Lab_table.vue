@@ -21,6 +21,13 @@
               <option value="S">S</option>
               <option value="I">I</option>
               <option value="R">R</option>
+              <option value="*S">*S</option>
+              <option value="*I">*I</option>
+              <option value="*R">*R</option>
+              <option value="+">+</option>
+              <option value="-">-</option>
+              <option value="*+">*+</option>
+              <option value="*-">*-</option>
             </select>
           </td>
         </tr>
