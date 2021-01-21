@@ -4,7 +4,14 @@
       <header_hospital />
     </div>
 
+    <div>
+      <input type="file" id="csv_file" name="csv_file" class="form-control" @change="loadCSV($event)">
+      <input v-model="SId" placeholder="Enter ID"/>
+      <button type="button" @click="getData(SId)">getData</button>
+    </div>
+
     <history @update="history_data = $event" :history_data="history_data" />
+
     <div @click="changeVitek">
       <lab_detail @update="detail_data = $event" :detail_data="detail_data" />
     </div>
@@ -46,6 +53,13 @@ export default {
   name: "app",
   data() {
     return {
+      channel_name: '',
+      channel_fields: [],
+      channel_entries: [],
+      parse_header: [],
+      parse_csv: [],
+      sortOrders:{},
+      sortKey: '',
       date_of_sample_collection: "",
       owner: "",
       med_recommend: [],
@@ -275,15 +289,17 @@ export default {
     request_med() {
       console.log("===> req_data <===");
       let req_data = {};
+      var med_table;
+      var req_url;
       req_data.species = this.history_data.species;
       //req_data.submitted_sample = this.detail_data.submitted_sample;
       req_data.bact_species_1 = this.backterial_species_identification;
       if (this.detail_data.vitek_id_card == "GN") {
-        var med_table = this.med_lists_GN;
-        var req_url = 'http://pinprayoon.ddns.net:5000/GN';
+        med_table = this.med_lists_GN;
+        req_url = 'http://172.0.0.1:5000/GN';
       } else if (this.detail_data.vitek_id_card == "GP") {
-        var med_table = this.med_lists_GP;
-        var req_url = 'http://pinprayoon.ddns.net:5000/GP';
+        med_table = this.med_lists_GP;
+        req_url = '172.16.0.1:5000/GP';
       } else {
         return;
       }
@@ -307,6 +323,102 @@ export default {
             alert(error);
           }
         });
+    },
+    sortBy: function (key) {
+      var vm = this
+      vm.sortKey = key
+      vm.sortOrders[key] = vm.sortOrders[key] * -1
+    },
+    getData(Aid){
+      const dataSet = this.parse_csv
+      for (const csv in dataSet){
+        var med 
+        if (dataSet[csv].id == Aid){
+            this.backterial_species_identification = dataSet[csv].bact_species_1
+            this.history_data.species = dataSet[csv].species
+            this.detail_data.vitek_id_card = dataSet[csv].vitek_id
+          if (this.detail_data.vitek_id_card == "GN") {
+            for(const i in this.med_lists_GN)
+              {
+                med = this.med_lists_GN[i].med_name
+                console.log(dataSet[csv][med])
+                if (dataSet[csv][med]=== "") 
+                {
+                  this.med_lists_GN[i].SIR = "N/A"
+                }
+                else{
+                  this.med_lists_GN[i].SIR = dataSet[csv][med]
+                }
+                
+              }
+            }
+          else{
+            for(const i in this.med_lists_GP)
+            {
+              med = this.med_lists_GP[i].med_name
+              if (dataSet[csv][med]=== "") 
+              {
+                this.med_lists_GP[i].SIR = "N/A"
+              }
+              else{
+                this.med_lists_GP[i].SIR = dataSet[csv][med]
+              }
+              
+            }
+          }
+          
+        }
+      }
+
+      return;
+    },
+    
+    csvJSON(csv){
+      var vm = this
+      var lines = csv.split("\n")
+      var result = []
+      var headers = lines[0].split(",")
+      vm.parse_header = lines[0].split(",") 
+      lines[0].split(",").forEach(function (key) {
+        vm.sortOrders[key] = 1
+      })
+      
+      lines.map(function(line, indexLine){
+        if (indexLine < 1) return // Jump header line
+        
+        var obj = {}
+        var currentline = line.split(",")
+        
+        headers.map(function(header, indexHeader){
+          obj[header] = currentline[indexHeader]
+        })
+        
+        result.push(obj)
+      })
+      
+      result.pop() // remove the last item because undefined values
+      
+      return result // JavaScript object
+    },
+    loadCSV(e) {
+      var vm = this
+      if (window.FileReader) {
+        var reader = new FileReader();
+        reader.readAsText(e.target.files[0]);
+        // Handle errors load
+        reader.onload = function(event) {
+          var csv = event.target.result;
+          vm.parse_csv = vm.csvJSON(csv)
+          
+        };
+        reader.onerror = function(evt) {
+          if(evt.target.error.name == "NotReadableError") {
+            alert("Canno't read file !");
+          }
+        };
+      } else {
+        alert('FileReader are not supported in this browser.');
+      }
     }
   }
 };
